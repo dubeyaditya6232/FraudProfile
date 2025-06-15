@@ -1,0 +1,16 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="fraud_profile",
+    version="0.1",
+    packages=find_packages(),
+    install_requires=[
+        "fastapi==0.68.1",
+        "uvicorn==0.15.0",
+        "pandas==1.3.3",
+        "numpy==1.21.2",
+        "scikit-learn==0.24.2",
+        "plotly==5.3.1",
+        "python-dateutil==2.8.2",
+    ],
+)

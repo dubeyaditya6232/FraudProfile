@@ -1,0 +1,501 @@
+user_id,session_id,start_time,end_time,pages_visited,session_duration
+USER_000029,SESS_651c3b22-7e28-4dd8-8960-f79e92ad6dfe,2025-06-10 02:37:30,2025-06-10 03:28:31,"['Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance', 'Statement Download']",3061.0
+USER_000039,SESS_22994ab1-72f1-41a8-9cd9-34890f50fe37,2025-05-25 00:33:06,2025-05-25 01:17:07,"['Statement Download', 'Bill Pay', 'Card Management', 'Account Balance']",2641.0
+USER_000089,SESS_c7fb011c-366a-402e-872e-1d2d04f22f35,2025-05-27 04:56:03,2025-05-27 05:54:36,"['Account Balance', 'Statement Download', 'Bill Pay']",3513.0
+USER_000076,SESS_f63d4a14-c180-4e03-a93a-b79aa90bd4ed,2025-05-26 07:29:00,2025-05-26 07:38:43,"['Bill Pay', 'Card Management', 'Transfer Money', 'Account Balance']",583.0
+USER_000003,SESS_0c65bfd1-ef69-4c54-a3e3-2746b2daa7e1,2025-05-28 15:07:35,2025-05-28 15:49:29,"['Bill Pay', 'Statement Download', 'Card Management', 'Transfer Money']",2514.0
+USER_000028,SESS_5ff4f7f4-8be2-4045-96be-4254e8f221e0,2025-05-28 11:50:50,2025-05-28 12:30:03,"['Statement Download', 'Transfer Money', 'Card Management', 'Account Balance', 'Bill Pay']",2353.0
+USER_000055,SESS_f60953d4-5160-4ad5-88de-032296f682c0,2025-06-15 12:39:30,2025-06-15 13:29:06,"['Bill Pay', 'Statement Download', 'Account Balance', 'Card Management', 'Transfer Money']",2976.0
+USER_000043,SESS_55e3c649-f9a9-434c-a195-e7da8f3faf6f,2025-06-02 00:37:57,2025-06-02 00:54:43,"['Account Balance', 'Card Management', 'Statement Download', 'Bill Pay', 'Transfer Money']",1006.0
+USER_000053,SESS_c8a3d087-8c26-4911-ac16-f48e4499faf4,2025-06-04 15:26:55,2025-06-04 15:49:11,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Statement Download', 'Card Management']",1336.0
+USER_000036,SESS_82a59077-5319-4d0d-9f5e-d5e6cde9554f,2025-05-24 05:17:39,2025-05-24 06:05:44,"['Card Management', 'Transfer Money', 'Account Balance', 'Bill Pay', 'Statement Download']",2885.0
+USER_000003,SESS_ee7e2138-2010-4b7d-8f50-e08c5c84a94c,2025-05-29 21:45:16,2025-05-29 22:28:16,"['Card Management', 'Account Balance', 'Transfer Money', 'Statement Download', 'Bill Pay']",2580.0
+USER_000030,SESS_3ec44988-5c9c-4b20-acab-8adbd9fde8e6,2025-05-19 07:44:38,2025-05-19 07:51:12,"['Statement Download', 'Bill Pay', 'Transfer Money', 'Account Balance', 'Card Management']",394.0
+USER_000007,SESS_13735a69-cb32-49c2-a998-83175d6c924c,2025-06-09 19:59:53,2025-06-09 20:22:34,"['Transfer Money', 'Bill Pay', 'Statement Download', 'Account Balance', 'Card Management']",1361.0
+USER_000033,SESS_2de31f00-d523-4e42-841e-e1f002f4276c,2025-06-14 05:54:23,2025-06-14 06:32:35,"['Card Management', 'Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money']",2292.0
+USER_000072,SESS_5f45775c-0ccb-4f66-a724-72327f98f2e9,2025-06-12 08:09:03,2025-06-12 08:26:27,"['Statement Download', 'Card Management', 'Transfer Money', 'Account Balance', 'Bill Pay']",1044.0
+USER_000073,SESS_4805dfc8-5e6a-40f0-aa8a-307771f68b50,2025-06-09 13:57:57,2025-06-09 14:55:56,"['Statement Download', 'Bill Pay', 'Account Balance', 'Card Management', 'Transfer Money']",3479.0
+USER_000045,SESS_19ec1ec8-ac5b-4453-9b5b-18377b212cf5,2025-05-25 06:14:31,2025-05-25 07:01:36,"['Card Management', 'Account Balance', 'Transfer Money', 'Statement Download', 'Bill Pay']",2825.0
+USER_000077,SESS_968630c1-58ad-4aae-9bfe-4fa4c92d5efe,2025-06-01 00:44:57,2025-06-01 01:11:57,"['Account Balance', 'Statement Download', 'Card Management']",1620.0
+USER_000035,SESS_e1c239cc-1556-444b-a474-b64f8ac8f370,2025-05-30 05:48:47,2025-05-30 06:19:16,"['Card Management', 'Bill Pay', 'Account Balance', 'Statement Download']",1829.0
+USER_000094,SESS_e6bd76d0-fccc-4bb6-a9d4-4a5084ff2f42,2025-06-11 04:19:05,2025-06-11 05:12:15,"['Statement Download', 'Card Management', 'Account Balance', 'Transfer Money', 'Bill Pay']",3190.0
+USER_000002,SESS_4d0f731a-ddef-4076-b250-52f9b5668d17,2025-06-07 10:23:16,2025-06-07 10:49:27,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Card Management', 'Statement Download']",1571.0
+USER_000097,SESS_c668a73e-8c7c-4af3-b2c4-3acdc406196f,2025-05-27 02:32:14,2025-05-27 02:48:29,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management', 'Account Balance']",975.0
+USER_000012,SESS_2734971e-b5b4-4143-a537-64e7d5d7f322,2025-06-12 08:39:24,2025-06-12 08:46:00,"['Account Balance', 'Transfer Money', 'Statement Download', 'Card Management', 'Bill Pay']",396.0
+USER_000017,SESS_5aa26e5d-6865-45be-bb2a-eb05a42469f8,2025-06-06 16:39:42,2025-06-06 17:05:16,"['Bill Pay', 'Statement Download', 'Card Management']",1534.0
+USER_000099,SESS_c39b6a21-a453-4925-8f18-b970ce0ebff0,2025-06-06 10:25:04,2025-06-06 10:57:38,"['Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management']",1954.0
+USER_000047,SESS_3ab86b55-f150-418c-affa-ad9b31cb3fd4,2025-06-09 14:00:52,2025-06-09 14:07:03,"['Transfer Money', 'Account Balance', 'Statement Download', 'Card Management', 'Bill Pay']",371.0
+USER_000000,SESS_d3f9a3d5-fbee-4e63-90a8-142eac246479,2025-05-28 08:57:20,2025-05-28 09:26:54,"['Statement Download', 'Bill Pay', 'Account Balance', 'Card Management', 'Transfer Money']",1774.0
+USER_000041,SESS_f36850e0-daac-4b9d-9c7f-a2aadea42c0e,2025-05-30 04:40:09,2025-05-30 04:50:45,"['Card Management', 'Bill Pay', 'Account Balance', 'Statement Download', 'Transfer Money']",636.0
+USER_000055,SESS_e4a21cf3-9666-4d73-9b9d-fdc3e4afac66,2025-06-12 02:34:10,2025-06-12 03:28:39,"['Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management']",3269.0
+USER_000090,SESS_c40e0ad2-6835-4da2-9ee5-fd85a46246e2,2025-05-20 19:54:27,2025-05-20 20:40:23,"['Card Management', 'Bill Pay', 'Statement Download']",2756.0
+USER_000054,SESS_2293e593-3e68-495c-b0f5-5693145fb212,2025-06-07 06:35:05,2025-06-07 07:08:20,"['Transfer Money', 'Card Management', 'Statement Download']",1995.0
+USER_000080,SESS_2c997163-f172-476b-98a3-1e8e7889ebf6,2025-05-21 19:41:54,2025-05-21 20:15:11,"['Bill Pay', 'Statement Download', 'Transfer Money']",1997.0
+USER_000054,SESS_3e38adb1-1c93-492f-895d-57afc9ef3311,2025-06-08 19:03:04,2025-06-08 19:20:26,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Statement Download', 'Card Management']",1042.0
+USER_000054,SESS_41bce2f4-b4d2-460c-8644-87f6233ef6a6,2025-06-07 04:54:02,2025-06-07 05:08:25,"['Bill Pay', 'Card Management', 'Account Balance', 'Statement Download', 'Transfer Money']",863.0
+USER_000027,SESS_1f06c886-1fb7-4d3a-9aae-8d561ba7a64c,2025-05-25 13:35:43,2025-05-25 14:32:10,"['Transfer Money', 'Bill Pay', 'Account Balance', 'Statement Download', 'Card Management']",3387.0
+USER_000091,SESS_9e0bcb03-54dc-4188-b217-371227d1ae62,2025-06-03 02:15:02,2025-06-03 02:58:08,"['Transfer Money', 'Card Management', 'Bill Pay', 'Account Balance', 'Statement Download']",2586.0
+USER_000030,SESS_b39b61f0-9c18-4418-8fd9-9f6142a219b3,2025-05-20 15:31:09,2025-05-20 16:10:10,"['Bill Pay', 'Card Management', 'Statement Download', 'Transfer Money', 'Account Balance']",2341.0
+USER_000045,SESS_08df6f65-6e21-4fa6-be55-a79197bf0218,2025-05-19 01:12:37,2025-05-19 01:46:43,"['Account Balance', 'Card Management', 'Bill Pay']",2046.0
+USER_000028,SESS_fd98fbb0-7d7c-4606-bef0-df65f882ea5c,2025-05-28 07:57:08,2025-05-28 08:43:30,"['Account Balance', 'Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money']",2782.0
+USER_000081,SESS_8c157e6e-47f2-4336-9bf6-4b48af6b7818,2025-05-27 04:28:29,2025-05-27 04:48:16,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Account Balance', 'Card Management']",1187.0
+USER_000050,SESS_b86bd36d-412e-43b6-b12d-83612c33b65a,2025-06-07 19:39:31,2025-06-07 20:04:07,"['Statement Download', 'Transfer Money', 'Card Management', 'Account Balance', 'Bill Pay']",1476.0
+USER_000075,SESS_dd0739b6-5ff8-427c-8732-e908c85133cc,2025-06-04 15:31:07,2025-06-04 15:57:34,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download']",1587.0
+USER_000030,SESS_5416dc7b-b5ca-4416-9db0-f5b7734f6eaa,2025-05-29 11:33:54,2025-05-29 12:09:51,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download', 'Card Management']",2157.0
+USER_000084,SESS_dfa6ca82-cfd8-4953-95ac-8eb518988aa5,2025-05-25 10:11:25,2025-05-25 11:10:01,"['Statement Download', 'Transfer Money', 'Card Management']",3516.0
+USER_000012,SESS_613b6790-8749-476a-9ee2-3801da064851,2025-06-03 23:51:05,2025-06-04 00:00:47,"['Bill Pay', 'Card Management', 'Statement Download', 'Account Balance', 'Transfer Money']",582.0
+USER_000012,SESS_be6ab3f8-e747-4cdd-a308-68dd70ebcc3d,2025-05-24 08:00:00,2025-05-24 08:47:25,"['Account Balance', 'Transfer Money', 'Bill Pay', 'Statement Download', 'Card Management']",2845.0
+USER_000063,SESS_8be067dd-32d6-418c-a8e0-5b40881e81e0,2025-05-21 19:39:41,2025-05-21 19:55:47,"['Card Management', 'Account Balance', 'Transfer Money', 'Bill Pay', 'Statement Download']",966.0
+USER_000079,SESS_1c231dcc-c7e6-4aea-aac1-65467dbf2fbe,2025-06-08 09:54:20,2025-06-08 10:27:12,"['Transfer Money', 'Statement Download', 'Bill Pay', 'Card Management', 'Account Balance']",1972.0
+USER_000090,SESS_21677313-9801-4600-8d7f-287e7e02b454,2025-05-26 22:28:37,2025-05-26 23:09:33,"['Transfer Money', 'Statement Download', 'Account Balance']",2456.0
+USER_000000,SESS_1fcfbb2f-0290-481f-8ec5-767476514a7e,2025-05-23 08:24:04,2025-05-23 08:59:52,"['Account Balance', 'Bill Pay', 'Card Management', 'Transfer Money']",2148.0
+USER_000009,SESS_c959ae90-50a8-4676-8e7a-6fbcfaffb616,2025-06-13 08:11:04,2025-06-13 08:33:11,"['Transfer Money', 'Account Balance', 'Bill Pay']",1327.0
+USER_000000,SESS_cb9215a5-1afd-4eb8-ade0-264326fcf144,2025-06-05 05:55:23,2025-06-05 06:03:49,"['Card Management', 'Account Balance', 'Bill Pay', 'Transfer Money', 'Statement Download']",506.0
+USER_000023,SESS_7c133731-1a53-4878-8096-0cc7b127b5dd,2025-05-18 22:49:16,2025-05-18 23:18:03,"['Card Management', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Account Balance']",1727.0
+USER_000019,SESS_8e410e65-19df-40d7-9401-7d29182e292b,2025-06-04 03:45:43,2025-06-04 04:12:26,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance', 'Card Management']",1603.0
+USER_000092,SESS_493e75df-cb4a-4c9a-b8af-8ee0cbc76575,2025-05-29 12:55:55,2025-05-29 13:17:09,"['Statement Download', 'Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay']",1274.0
+USER_000055,SESS_54c68b36-4eb4-4618-9eb4-29044fdce83b,2025-05-24 08:16:36,2025-05-24 08:27:41,"['Statement Download', 'Card Management', 'Bill Pay', 'Account Balance']",665.0
+USER_000058,SESS_3b47100f-067a-4a84-8b4b-8b996d540527,2025-05-30 10:10:04,2025-05-30 11:08:14,"['Card Management', 'Account Balance', 'Transfer Money']",3490.0
+USER_000057,SESS_41172261-5c74-4340-96db-914d7a55e58e,2025-06-06 10:33:10,2025-06-06 10:56:17,"['Statement Download', 'Account Balance', 'Bill Pay', 'Card Management', 'Transfer Money']",1387.0
+USER_000013,SESS_12017d60-7281-438b-8695-873d3622da32,2025-05-26 02:41:08,2025-05-26 03:10:16,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download']",1748.0
+USER_000002,SESS_b3183134-35b9-43e3-af9c-080e63393ecc,2025-05-26 00:24:02,2025-05-26 00:35:20,"['Bill Pay', 'Statement Download', 'Account Balance', 'Transfer Money']",678.0
+USER_000086,SESS_b69464de-3e5f-46a7-9527-8d26dd211a58,2025-05-26 09:54:09,2025-05-26 10:45:26,"['Card Management', 'Statement Download', 'Transfer Money', 'Account Balance']",3077.0
+USER_000022,SESS_df163f5b-ebb6-4558-b2f2-377a3ab973ee,2025-06-14 12:14:14,2025-06-14 13:00:38,"['Bill Pay', 'Account Balance', 'Statement Download', 'Transfer Money', 'Card Management']",2784.0
+USER_000080,SESS_d6434ba3-6a4b-433c-8f85-1e32e9b7a743,2025-05-31 21:50:58,2025-05-31 22:22:32,"['Account Balance', 'Card Management', 'Transfer Money', 'Statement Download']",1894.0
+USER_000081,SESS_9d8b64d5-3ee6-41ba-9301-35dae1a690c6,2025-06-15 16:51:13,2025-06-15 17:46:50,"['Account Balance', 'Transfer Money', 'Card Management', 'Bill Pay', 'Statement Download']",3337.0
+USER_000093,SESS_c65c4fcd-e84d-4932-aa5b-e19a680bb581,2025-05-30 19:22:52,2025-05-30 20:18:37,"['Transfer Money', 'Statement Download', 'Account Balance', 'Card Management', 'Bill Pay']",3345.0
+USER_000054,SESS_46647646-ae64-4ff7-b8db-d887f826761c,2025-06-07 12:24:55,2025-06-07 12:43:55,"['Account Balance', 'Card Management', 'Statement Download', 'Transfer Money', 'Bill Pay']",1140.0
+USER_000010,SESS_c0cbe98f-4fd9-4b91-b039-53e34a427094,2025-05-30 04:02:16,2025-05-30 04:24:27,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",1331.0
+USER_000084,SESS_ad3a8a8b-86c5-4c2a-b1da-b991ac0c90f6,2025-06-08 07:12:29,2025-06-08 07:18:23,"['Account Balance', 'Statement Download', 'Transfer Money', 'Card Management', 'Bill Pay']",354.0
+USER_000009,SESS_cd165d07-fdeb-4f5c-88b7-3370d6999b0d,2025-06-01 06:08:46,2025-06-01 06:42:57,"['Bill Pay', 'Account Balance', 'Statement Download', 'Transfer Money', 'Card Management']",2051.0
+USER_000053,SESS_32293305-137b-429b-bf7c-bd97a4b0dcb7,2025-05-26 10:51:31,2025-05-26 11:23:41,"['Account Balance', 'Transfer Money', 'Card Management', 'Bill Pay']",1930.0
+USER_000004,SESS_b05403dc-18bf-435f-be7e-447348fe0abc,2025-06-14 12:51:25,2025-06-14 13:35:30,"['Account Balance', 'Statement Download', 'Bill Pay', 'Card Management']",2645.0
+USER_000054,SESS_2f80e3df-bfc5-4779-b5ee-935125049b6e,2025-06-08 12:56:51,2025-06-08 13:13:39,"['Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money']",1008.0
+USER_000054,SESS_4191c635-ba0c-427d-b34d-b6633c937860,2025-06-12 08:45:33,2025-06-12 09:44:42,"['Bill Pay', 'Account Balance', 'Card Management', 'Statement Download', 'Transfer Money']",3549.0
+USER_000096,SESS_6283d298-7946-4818-a877-79497ddd1bdd,2025-06-11 16:12:59,2025-06-11 17:06:50,"['Account Balance', 'Card Management', 'Bill Pay', 'Transfer Money', 'Statement Download']",3231.0
+USER_000052,SESS_4267df13-7dc6-4249-87f2-9f8f4d0217a2,2025-05-28 23:51:40,2025-05-29 00:30:58,"['Account Balance', 'Transfer Money', 'Statement Download', 'Bill Pay', 'Card Management']",2358.0
+USER_000040,SESS_d51f71fa-f08f-4d7e-96d8-cbef2f5497a9,2025-06-08 09:01:26,2025-06-08 09:19:02,"['Card Management', 'Account Balance', 'Statement Download', 'Bill Pay', 'Transfer Money']",1056.0
+USER_000069,SESS_b4a92d08-eb4c-4224-bb97-83cf8a714b5c,2025-05-24 01:09:22,2025-05-24 01:51:57,"['Card Management', 'Account Balance', 'Statement Download', 'Bill Pay', 'Transfer Money']",2555.0
+USER_000058,SESS_01269ace-d35c-44b6-9534-1ceced48b75d,2025-06-02 16:16:47,2025-06-02 16:57:38,"['Card Management', 'Statement Download', 'Account Balance', 'Transfer Money', 'Bill Pay']",2451.0
+USER_000013,SESS_096c6de0-4931-4fcf-98ca-a5fb48fa8c85,2025-06-08 15:56:24,2025-06-08 16:20:02,"['Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download', 'Account Balance']",1418.0
+USER_000093,SESS_cfe8313d-e4e4-4565-a294-133be780b77b,2025-05-26 13:53:48,2025-05-26 14:36:45,"['Statement Download', 'Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money']",2577.0
+USER_000034,SESS_766a2780-ee0a-4a3e-b0fc-fae65c024dc5,2025-06-02 08:26:20,2025-06-02 09:19:46,"['Card Management', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance']",3206.0
+USER_000031,SESS_a01c7de7-f815-4771-b1bd-6d440070c843,2025-05-17 10:33:22,2025-05-17 11:23:07,"['Transfer Money', 'Statement Download', 'Bill Pay', 'Account Balance', 'Card Management']",2985.0
+USER_000048,SESS_a7b5452f-942f-4fd1-aa8b-7db90871730e,2025-05-31 05:52:04,2025-05-31 06:32:01,"['Transfer Money', 'Card Management', 'Account Balance', 'Bill Pay', 'Statement Download']",2397.0
+USER_000063,SESS_27746e66-4e40-466a-bf2a-fd7271cc36fc,2025-06-09 09:20:51,2025-06-09 09:54:08,"['Statement Download', 'Transfer Money', 'Account Balance', 'Bill Pay']",1997.0
+USER_000042,SESS_75768f4a-f06c-483d-9a08-89eadc566535,2025-06-13 07:44:32,2025-06-13 08:21:23,"['Statement Download', 'Card Management', 'Bill Pay', 'Transfer Money', 'Account Balance']",2211.0
+USER_000003,SESS_cc1fa538-980d-40e1-a41a-fd7bc38e503e,2025-05-28 12:59:17,2025-05-28 13:55:52,"['Transfer Money', 'Card Management', 'Statement Download', 'Account Balance']",3395.0
+USER_000085,SESS_88e61da9-9262-47cc-aa9e-fbc5497c1795,2025-05-27 02:22:30,2025-05-27 02:32:52,"['Card Management', 'Bill Pay', 'Statement Download', 'Account Balance', 'Transfer Money']",622.0
+USER_000012,SESS_d52b40ff-d66f-440f-90de-a795d1314fed,2025-05-31 13:04:26,2025-05-31 13:58:29,"['Card Management', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance']",3243.0
+USER_000090,SESS_5d8731f3-bfc3-47b4-b3a7-0933aeea6c95,2025-06-01 00:46:33,2025-06-01 01:25:27,"['Bill Pay', 'Statement Download', 'Account Balance', 'Transfer Money', 'Card Management']",2334.0
+USER_000013,SESS_8ed154b8-44ca-471e-ad63-0afb6d3901dc,2025-05-23 23:40:20,2025-05-23 23:45:22,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",302.0
+USER_000029,SESS_57ec8cbb-09a9-4a95-bc78-91d5e3c143ef,2025-05-27 14:18:34,2025-05-27 15:01:58,"['Account Balance', 'Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money']",2604.0
+USER_000024,SESS_ab88ecf8-a4c0-47ac-95cf-24b43ddb18b8,2025-05-18 20:36:47,2025-05-18 21:02:34,"['Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money', 'Statement Download']",1547.0
+USER_000023,SESS_9d04e70a-1c42-444a-9a5b-264585c48808,2025-06-10 09:25:55,2025-06-10 09:53:10,"['Card Management', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Account Balance']",1635.0
+USER_000069,SESS_130f2868-9019-4467-84cc-d75fa3e8f376,2025-05-28 08:21:46,2025-05-28 08:47:42,"['Card Management', 'Bill Pay', 'Statement Download', 'Transfer Money']",1556.0
+USER_000022,SESS_87728d95-c333-477e-9571-25f26a9f0905,2025-05-23 18:50:38,2025-05-23 19:33:02,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Account Balance', 'Card Management']",2544.0
+USER_000004,SESS_58284eba-5632-4d3f-a901-aef962009171,2025-06-11 14:29:59,2025-06-11 15:24:49,"['Statement Download', 'Card Management', 'Transfer Money', 'Bill Pay', 'Account Balance']",3290.0
+USER_000031,SESS_15acd2f7-a642-43b8-81fd-aa723d8818de,2025-06-10 02:21:36,2025-06-10 03:21:17,"['Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download', 'Account Balance']",3581.0
+USER_000088,SESS_8d11daa7-db8a-41a1-a43a-aaa065dc1f3f,2025-06-05 07:57:38,2025-06-05 08:56:18,"['Statement Download', 'Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance']",3520.0
+USER_000034,SESS_0127af86-eb00-4616-99b8-6622b1c1c9a7,2025-05-17 06:58:53,2025-05-17 07:37:15,"['Statement Download', 'Card Management', 'Account Balance', 'Bill Pay']",2302.0
+USER_000074,SESS_ee9f1490-6f75-474e-9bfb-3dd577682e08,2025-05-19 11:28:04,2025-05-19 11:40:01,"['Bill Pay', 'Account Balance', 'Card Management', 'Transfer Money', 'Statement Download']",717.0
+USER_000021,SESS_7da368d4-d8bb-413c-9a52-86921879206d,2025-06-04 11:49:59,2025-06-04 12:09:10,"['Transfer Money', 'Statement Download', 'Bill Pay']",1151.0
+USER_000096,SESS_60aa4a31-b85c-430c-9182-e8ca9d602e6d,2025-05-30 08:24:31,2025-05-30 08:47:31,"['Account Balance', 'Card Management', 'Bill Pay']",1380.0
+USER_000050,SESS_f91b9c95-437d-4c29-a370-e5b371602479,2025-06-10 12:07:41,2025-06-10 12:25:38,"['Card Management', 'Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay']",1077.0
+USER_000027,SESS_f0fb1117-ebbd-48e9-9e33-4c9c39728b1f,2025-05-31 09:28:15,2025-05-31 10:07:36,"['Account Balance', 'Bill Pay', 'Card Management', 'Statement Download', 'Transfer Money']",2361.0
+USER_000039,SESS_0b12fed6-eb86-4213-8d91-5459e0999a1e,2025-05-25 23:03:44,2025-05-25 23:21:35,"['Bill Pay', 'Statement Download', 'Card Management', 'Transfer Money', 'Account Balance']",1071.0
+USER_000009,SESS_2a253f19-a091-42f0-b31c-83be3d6181d6,2025-06-02 02:21:00,2025-06-02 03:11:36,"['Statement Download', 'Account Balance', 'Card Management']",3036.0
+USER_000019,SESS_f878a4b4-2f70-4f3a-9681-fd92edfe27a6,2025-06-08 00:18:08,2025-06-08 00:51:58,"['Card Management', 'Account Balance', 'Statement Download', 'Transfer Money', 'Bill Pay']",2030.0
+USER_000029,SESS_3b479709-46b3-458a-a508-c5d99a19a08a,2025-06-09 15:13:36,2025-06-09 15:35:56,"['Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money']",1340.0
+USER_000050,SESS_1d53bca3-b1d1-4b0f-bfe1-66ea5c401cd1,2025-06-03 12:50:58,2025-06-03 13:47:09,"['Card Management', 'Account Balance', 'Statement Download', 'Transfer Money', 'Bill Pay']",3371.0
+USER_000040,SESS_49eb19e1-2070-4a63-96e1-9863604751f1,2025-05-20 19:49:07,2025-05-20 20:07:46,"['Transfer Money', 'Statement Download', 'Card Management', 'Account Balance', 'Bill Pay']",1119.0
+USER_000044,SESS_4326768c-360f-4e63-a609-2b71a32a9207,2025-06-11 17:42:18,2025-06-11 18:23:11,"['Transfer Money', 'Statement Download', 'Bill Pay', 'Account Balance', 'Card Management']",2453.0
+USER_000054,SESS_68788562-13fe-40e1-92be-bd95490351d7,2025-05-20 04:49:39,2025-05-20 05:45:01,"['Bill Pay', 'Account Balance', 'Statement Download', 'Card Management', 'Transfer Money']",3322.0
+USER_000012,SESS_38ac1429-b7ed-4925-904b-4c6094169cb8,2025-05-26 06:13:41,2025-05-26 06:40:07,"['Statement Download', 'Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay']",1586.0
+USER_000032,SESS_695bddaf-c146-4fac-878d-57908be000b8,2025-06-02 19:42:43,2025-06-02 20:27:05,"['Card Management', 'Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money']",2662.0
+USER_000044,SESS_cb12cfea-6343-4bbb-928e-67e26cbfe088,2025-05-23 15:47:10,2025-05-23 16:44:41,"['Transfer Money', 'Card Management', 'Statement Download']",3451.0
+USER_000096,SESS_a03e4a22-7909-4018-a452-23ec36bd3260,2025-06-14 19:40:13,2025-06-14 19:51:11,"['Bill Pay', 'Card Management', 'Transfer Money', 'Account Balance', 'Statement Download']",658.0
+USER_000043,SESS_13f2a0e7-ead9-40f5-ae61-51bb310aa25f,2025-05-17 03:00:57,2025-05-17 03:17:13,"['Statement Download', 'Card Management', 'Bill Pay', 'Transfer Money', 'Account Balance']",976.0
+USER_000005,SESS_73dcd395-6487-45e4-8470-99cdc77eeb9b,2025-06-06 04:31:04,2025-06-06 04:37:57,"['Card Management', 'Transfer Money', 'Statement Download', 'Account Balance', 'Bill Pay']",413.0
+USER_000047,SESS_17788ce8-c260-4053-905e-451f7eccf92e,2025-05-23 02:45:36,2025-05-23 03:08:55,"['Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download', 'Account Balance']",1399.0
+USER_000063,SESS_5f90f6d3-95e3-4c8f-9920-36a2491b5a9f,2025-06-04 16:39:11,2025-06-04 17:18:44,"['Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance', 'Card Management']",2373.0
+USER_000049,SESS_a56f4f37-0601-4ba0-b869-0d5608316582,2025-05-31 21:39:57,2025-05-31 21:46:39,"['Transfer Money', 'Account Balance', 'Card Management', 'Statement Download', 'Bill Pay']",402.0
+USER_000012,SESS_ca5da8b0-29dc-47dc-a879-655a69f26a35,2025-05-22 02:53:52,2025-05-22 03:12:15,"['Transfer Money', 'Card Management', 'Bill Pay', 'Statement Download', 'Account Balance']",1103.0
+USER_000046,SESS_f1404c00-07ca-4038-909d-c8d392116ea7,2025-05-26 11:05:52,2025-05-26 12:04:10,"['Account Balance', 'Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download']",3498.0
+USER_000032,SESS_1feff3fb-04dd-4716-8cab-377ca449564a,2025-06-14 08:09:20,2025-06-14 08:21:57,"['Bill Pay', 'Statement Download', 'Card Management', 'Transfer Money']",757.0
+USER_000037,SESS_f488f7d3-e6db-494a-95e4-933a08c883ff,2025-06-01 14:05:05,2025-06-01 14:46:57,"['Transfer Money', 'Card Management', 'Bill Pay', 'Account Balance', 'Statement Download']",2512.0
+USER_000094,SESS_d515eec3-1404-4861-9e9d-0edd9304dfe6,2025-06-02 19:36:27,2025-06-02 19:53:08,"['Card Management', 'Statement Download', 'Transfer Money', 'Account Balance', 'Bill Pay']",1001.0
+USER_000022,SESS_7ef3799b-0e45-4a38-b06a-6746504fe027,2025-05-30 15:13:48,2025-05-30 15:59:19,"['Account Balance', 'Card Management', 'Transfer Money', 'Bill Pay', 'Statement Download']",2731.0
+USER_000046,SESS_99a15d50-1c98-4729-b741-266704fc5fb8,2025-05-22 06:52:03,2025-05-22 07:08:18,"['Statement Download', 'Account Balance', 'Transfer Money', 'Card Management', 'Bill Pay']",975.0
+USER_000025,SESS_f0a3932e-0829-4795-9ec1-1c6f0385e070,2025-05-18 00:56:55,2025-05-18 01:17:39,"['Statement Download', 'Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance']",1244.0
+USER_000016,SESS_199791eb-3c65-4855-ab44-f28cbfd3024f,2025-05-18 03:37:48,2025-05-18 04:13:17,"['Transfer Money', 'Card Management', 'Statement Download', 'Account Balance', 'Bill Pay']",2129.0
+USER_000039,SESS_336e40be-2fd8-4a96-ad76-718655327b12,2025-06-04 17:58:56,2025-06-04 18:30:26,"['Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money', 'Statement Download']",1890.0
+USER_000067,SESS_5e3fc8de-5ee8-43a9-9245-e0822d8fdc91,2025-05-28 06:33:09,2025-05-28 06:41:00,"['Card Management', 'Statement Download', 'Transfer Money', 'Account Balance', 'Bill Pay']",471.0
+USER_000087,SESS_24e9c211-ce02-4f97-9e78-32f33f9ff985,2025-05-29 07:54:56,2025-05-29 08:07:42,"['Statement Download', 'Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay']",766.0
+USER_000021,SESS_49cff9a2-409d-4d3a-b3e9-d94f9e1e8f66,2025-06-11 04:30:23,2025-06-11 05:30:06,"['Transfer Money', 'Statement Download', 'Card Management', 'Bill Pay', 'Account Balance']",3583.0
+USER_000012,SESS_8abdf439-4c29-4399-8647-5806758f75ef,2025-05-31 19:08:02,2025-05-31 19:30:30,"['Card Management', 'Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance']",1348.0
+USER_000011,SESS_2e83dd10-a335-4a0f-b4e5-3d8d7aeef96a,2025-06-07 05:41:46,2025-06-07 06:18:43,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Account Balance', 'Card Management']",2217.0
+USER_000048,SESS_16beeae3-d2a2-45f1-946e-ba49b2facd6a,2025-06-09 06:42:12,2025-06-09 07:04:49,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Card Management', 'Statement Download']",1357.0
+USER_000060,SESS_ea92a3d1-413f-4922-bd09-32cdbbddcac7,2025-05-19 18:54:42,2025-05-19 19:50:59,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Statement Download']",3377.0
+USER_000055,SESS_5143394a-6cbf-4396-85bc-48413ebe0f54,2025-05-17 08:08:06,2025-05-17 08:23:26,"['Card Management', 'Transfer Money', 'Statement Download', 'Account Balance', 'Bill Pay']",920.0
+USER_000087,SESS_0c451e6c-5a46-4b97-9926-cc27ae8c8064,2025-05-23 21:59:30,2025-05-23 22:38:40,"['Account Balance', 'Card Management', 'Transfer Money', 'Statement Download', 'Bill Pay']",2350.0
+USER_000032,SESS_480aeb4f-3647-4703-ac38-d4c9cafd738b,2025-05-26 11:35:27,2025-05-26 11:50:00,"['Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download', 'Account Balance']",873.0
+USER_000006,SESS_197d5124-f5ce-4f1d-9201-aa31462527ab,2025-06-06 21:53:53,2025-06-06 22:25:30,"['Card Management', 'Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay']",1897.0
+USER_000014,SESS_80988cf3-eff8-4041-ae6e-6af5462df2bb,2025-06-03 10:16:36,2025-06-03 10:43:26,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management', 'Account Balance']",1610.0
+USER_000048,SESS_1e66cc3d-c644-4cf6-995d-ea66dbda15d5,2025-05-29 05:04:46,2025-05-29 05:32:10,"['Account Balance', 'Transfer Money', 'Statement Download', 'Card Management']",1644.0
+USER_000039,SESS_00d2e358-118e-4d07-9d40-02501491d6f5,2025-06-04 15:06:04,2025-06-04 15:52:44,"['Transfer Money', 'Card Management', 'Account Balance', 'Statement Download']",2800.0
+USER_000089,SESS_3362dad7-4981-4ac8-9ca5-5b87a94a4caf,2025-05-20 00:33:04,2025-05-20 01:05:22,"['Card Management', 'Bill Pay', 'Account Balance']",1938.0
+USER_000062,SESS_a2cd3e34-8e33-43e1-b722-fa429db6f378,2025-06-06 10:01:36,2025-06-06 10:46:32,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Card Management']",2696.0
+USER_000005,SESS_2150786d-edca-44e8-bbea-c6d3c3a32ff8,2025-06-15 17:15:44,2025-06-15 17:28:58,"['Bill Pay', 'Account Balance', 'Card Management', 'Transfer Money', 'Statement Download']",794.0
+USER_000063,SESS_2120f9d4-bf36-4608-9b50-9defe211a0d2,2025-05-26 18:16:07,2025-05-26 18:41:53,"['Statement Download', 'Transfer Money', 'Account Balance', 'Bill Pay', 'Card Management']",1546.0
+USER_000047,SESS_b3ae2245-2d04-40a7-a86e-dac6effe5381,2025-06-07 14:06:01,2025-06-07 14:12:28,"['Card Management', 'Account Balance', 'Statement Download']",387.0
+USER_000096,SESS_58de001e-0643-4f90-9b4e-9bec1949d2d4,2025-06-14 11:37:41,2025-06-14 12:35:31,"['Account Balance', 'Card Management', 'Bill Pay', 'Statement Download', 'Transfer Money']",3470.0
+USER_000066,SESS_7eaef045-de0d-4e42-94b3-e7009c9cc2a3,2025-05-23 17:36:18,2025-05-23 17:49:13,"['Account Balance', 'Transfer Money', 'Bill Pay', 'Statement Download', 'Card Management']",775.0
+USER_000067,SESS_81d90dc2-30da-4986-bf16-24e9c9ff484c,2025-05-22 12:49:14,2025-05-22 13:04:47,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download', 'Card Management']",933.0
+USER_000030,SESS_ded2c022-a0df-4402-b674-c064628bd694,2025-06-06 20:45:03,2025-06-06 20:58:38,"['Statement Download', 'Bill Pay', 'Account Balance', 'Card Management']",815.0
+USER_000067,SESS_987da758-a46a-4c15-a86c-db1ff28ec171,2025-05-30 08:18:01,2025-05-30 09:16:20,"['Transfer Money', 'Statement Download', 'Card Management', 'Bill Pay', 'Account Balance']",3499.0
+USER_000084,SESS_3cf0b971-af73-4fe9-bcf2-fa98df6a4b89,2025-06-08 02:37:05,2025-06-08 03:34:46,"['Bill Pay', 'Transfer Money', 'Statement Download', 'Card Management', 'Account Balance']",3461.0
+USER_000001,SESS_248f98b5-3f31-4291-b329-b2f92234a4a5,2025-06-01 07:34:05,2025-06-01 08:17:44,"['Card Management', 'Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download']",2619.0
+USER_000035,SESS_92bfa978-d571-4865-9eaf-74e1116562e4,2025-05-29 14:53:40,2025-05-29 15:43:17,"['Card Management', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance']",2977.0
+USER_000005,SESS_3d42817c-75c2-44df-8af6-429cb5fa1dca,2025-05-25 01:43:00,2025-05-25 02:32:59,"['Bill Pay', 'Account Balance', 'Statement Download', 'Card Management', 'Transfer Money']",2999.0
+USER_000004,SESS_d31958df-ebc3-4246-b60e-a11293fb4acd,2025-05-21 02:34:23,2025-05-21 03:03:35,"['Account Balance', 'Statement Download', 'Transfer Money', 'Bill Pay', 'Card Management']",1752.0
+USER_000094,SESS_9d928d1c-d7a3-48e0-912c-4767bade771e,2025-05-27 05:45:27,2025-05-27 06:20:55,"['Transfer Money', 'Card Management', 'Account Balance', 'Statement Download', 'Bill Pay']",2128.0
+USER_000069,SESS_40ed45cd-6b5b-408b-ad9b-59cf62f5ba65,2025-05-18 10:33:50,2025-05-18 11:04:57,"['Statement Download', 'Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay']",1867.0
+USER_000092,SESS_41ed602f-dad7-4a4d-80f8-c3c6d3d7f2f7,2025-05-26 04:18:22,2025-05-26 05:16:49,"['Account Balance', 'Statement Download', 'Card Management', 'Transfer Money', 'Bill Pay']",3507.0
+USER_000076,SESS_1c1f0553-b099-4618-b35b-8c81eecf71c4,2025-05-16 21:36:48,2025-05-16 22:08:27,"['Account Balance', 'Bill Pay', 'Transfer Money']",1899.0
+USER_000005,SESS_710e3a8d-77f2-4c27-bc76-1bd2b8f15b25,2025-06-04 22:09:44,2025-06-04 23:09:28,"['Statement Download', 'Account Balance', 'Transfer Money']",3584.0
+USER_000096,SESS_1b3049e6-a98d-4ae6-9886-5ec4665c2c02,2025-05-31 18:31:30,2025-05-31 19:02:31,"['Statement Download', 'Card Management', 'Transfer Money', 'Bill Pay', 'Account Balance']",1861.0
+USER_000006,SESS_3e8f00c2-4f7f-4b9c-ae2f-19081074f4b9,2025-05-21 09:22:47,2025-05-21 09:57:20,"['Bill Pay', 'Statement Download', 'Account Balance', 'Transfer Money', 'Card Management']",2073.0
+USER_000090,SESS_e00be96d-9fc3-4b7a-824c-ea07441bdcd5,2025-06-10 07:36:15,2025-06-10 07:47:18,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Statement Download', 'Card Management']",663.0
+USER_000002,SESS_189f0312-0f1c-40d5-b235-60823d3b6cea,2025-06-03 18:31:02,2025-06-03 19:16:06,"['Account Balance', 'Card Management', 'Bill Pay']",2704.0
+USER_000085,SESS_8ddcda6a-dec7-4df2-b65a-863f5cbc49f5,2025-06-13 16:49:16,2025-06-13 16:55:27,"['Account Balance', 'Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download']",371.0
+USER_000035,SESS_3bb66d2d-259a-47be-aa89-4b341383523f,2025-06-12 18:26:01,2025-06-12 19:19:27,"['Account Balance', 'Card Management', 'Transfer Money', 'Statement Download', 'Bill Pay']",3206.0
+USER_000001,SESS_bfabd9af-3cdf-442e-89fd-8c97d00e896d,2025-06-15 16:47:23,2025-06-15 17:17:33,"['Statement Download', 'Bill Pay', 'Transfer Money', 'Account Balance', 'Card Management']",1810.0
+USER_000018,SESS_1eed4c36-9880-4b8b-b925-b1c8ea1e7425,2025-05-18 05:09:37,2025-05-18 06:02:22,"['Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance', 'Card Management']",3165.0
+USER_000092,SESS_e28d022e-2527-4b52-848b-bcb8e008d850,2025-06-11 06:15:02,2025-06-11 07:04:06,"['Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay', 'Card Management']",2944.0
+USER_000043,SESS_4afbefa3-a223-439a-a17b-b46c8bb68774,2025-06-07 05:03:20,2025-06-07 05:25:59,"['Statement Download', 'Card Management', 'Transfer Money', 'Account Balance', 'Bill Pay']",1359.0
+USER_000014,SESS_4c00a603-dc6e-4785-b216-9d08e4704d45,2025-05-17 22:53:28,2025-05-17 23:22:53,"['Transfer Money', 'Statement Download', 'Account Balance', 'Bill Pay', 'Card Management']",1765.0
+USER_000093,SESS_c31f2910-5bb1-409c-a8f2-2b479977a627,2025-06-08 20:33:36,2025-06-08 20:50:31,"['Transfer Money', 'Card Management', 'Bill Pay', 'Statement Download', 'Account Balance']",1015.0
+USER_000009,SESS_c8173664-7557-41ed-80bb-aa9aa70f9e97,2025-05-23 07:22:47,2025-05-23 07:53:19,"['Transfer Money', 'Account Balance', 'Bill Pay', 'Card Management', 'Statement Download']",1832.0
+USER_000010,SESS_55e81dfc-6037-4710-bf07-c60663329e2b,2025-05-18 11:19:33,2025-05-18 11:38:27,"['Statement Download', 'Transfer Money', 'Card Management', 'Account Balance']",1134.0
+USER_000070,SESS_ac97dee9-decf-40ed-b3d0-c87d9df99428,2025-05-24 00:15:23,2025-05-24 00:43:43,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Card Management']",1700.0
+USER_000041,SESS_3119eea3-951d-4ba6-ab01-c3d52fd6bb6f,2025-06-09 22:52:06,2025-06-09 23:19:27,"['Transfer Money', 'Account Balance', 'Statement Download']",1641.0
+USER_000043,SESS_f55108f1-ace9-4c13-901a-0f48b2033d35,2025-06-10 09:44:26,2025-06-10 09:51:23,"['Statement Download', 'Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance']",417.0
+USER_000015,SESS_82eb864e-7f99-47a6-8d49-562daafd232d,2025-05-20 06:17:17,2025-05-20 07:10:10,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Card Management', 'Account Balance']",3173.0
+USER_000000,SESS_a0f0494d-fa1d-4466-8d8c-c0d28fcba600,2025-05-17 04:31:28,2025-05-17 05:19:40,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance', 'Card Management']",2892.0
+USER_000050,SESS_aae42513-823c-4c5b-9498-94f2462008dd,2025-05-25 06:54:46,2025-05-25 07:43:31,"['Card Management', 'Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance']",2925.0
+USER_000022,SESS_e4b77107-c10c-4bd5-9f04-1da383241438,2025-05-17 03:48:13,2025-05-17 04:40:08,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management', 'Account Balance']",3115.0
+USER_000065,SESS_f467aae3-a27b-4545-84b6-80e9483af12c,2025-06-08 02:53:29,2025-06-08 03:08:54,"['Card Management', 'Account Balance', 'Statement Download', 'Transfer Money', 'Bill Pay']",925.0
+USER_000055,SESS_b478ef78-763a-4339-b0a1-1930709f33ee,2025-05-25 16:09:43,2025-05-25 16:32:19,"['Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download', 'Account Balance']",1356.0
+USER_000032,SESS_858400ea-4593-4365-9e56-a960f7973f14,2025-05-18 20:24:36,2025-05-18 21:01:55,"['Statement Download', 'Card Management', 'Bill Pay', 'Transfer Money', 'Account Balance']",2239.0
+USER_000043,SESS_db9b4007-f61d-40a5-ab42-c9b25436066e,2025-05-29 16:25:36,2025-05-29 16:31:59,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Account Balance', 'Card Management']",383.0
+USER_000056,SESS_76c9d30c-10b6-4848-806b-544e0991a8ff,2025-05-29 17:50:17,2025-05-29 18:23:24,"['Card Management', 'Transfer Money', 'Account Balance', 'Bill Pay', 'Statement Download']",1987.0
+USER_000053,SESS_561cbe9a-2204-445c-a07b-6e94ad77cf33,2025-05-29 06:29:38,2025-05-29 07:06:49,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download', 'Card Management']",2231.0
+USER_000018,SESS_4800f659-6cc4-4485-a9ed-2817dd8ac485,2025-05-22 20:22:03,2025-05-22 21:16:33,"['Statement Download', 'Card Management', 'Bill Pay', 'Account Balance']",3270.0
+USER_000040,SESS_fe2a466e-731e-45d8-a2cc-320e4c1df2ca,2025-06-13 03:56:59,2025-06-13 04:46:00,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Card Management', 'Account Balance']",2941.0
+USER_000016,SESS_0233b6c3-23df-4f71-8d4a-98d35c5c7894,2025-06-01 15:16:11,2025-06-01 15:50:54,"['Bill Pay', 'Transfer Money', 'Statement Download', 'Card Management']",2083.0
+USER_000057,SESS_4a01139b-4722-4415-b424-2d91e0bdb63b,2025-05-24 00:04:50,2025-05-24 00:43:17,"['Card Management', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance']",2307.0
+USER_000027,SESS_207866e9-f005-4a79-a3bc-bed49a33c0c0,2025-06-05 12:21:49,2025-06-05 13:16:42,"['Card Management', 'Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download']",3293.0
+USER_000052,SESS_ff7c5a9b-ef55-490b-a57b-29ec752f4880,2025-05-28 19:10:31,2025-05-28 19:52:49,"['Statement Download', 'Account Balance', 'Transfer Money', 'Bill Pay', 'Card Management']",2538.0
+USER_000047,SESS_5dd207dc-6c94-4e71-9751-ff774a3d8c0f,2025-06-15 04:40:08,2025-06-15 05:01:43,"['Transfer Money', 'Bill Pay', 'Account Balance']",1295.0
+USER_000051,SESS_76406386-db90-4ad1-bede-1956ba62e5b7,2025-06-13 06:20:36,2025-06-13 07:15:13,"['Card Management', 'Statement Download', 'Account Balance', 'Transfer Money', 'Bill Pay']",3277.0
+USER_000064,SESS_c2f86f32-9af2-43e3-8ea3-e52334216c17,2025-05-20 17:55:11,2025-05-20 18:40:42,"['Statement Download', 'Account Balance', 'Card Management']",2731.0
+USER_000012,SESS_28804ba4-3997-4865-867d-ddd4bc00df2a,2025-05-24 18:10:05,2025-05-24 18:48:38,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download', 'Card Management']",2313.0
+USER_000019,SESS_fa0d1d3e-a4d0-4628-a817-96894cc58e26,2025-05-21 22:44:52,2025-05-21 23:27:19,"['Transfer Money', 'Card Management', 'Statement Download']",2547.0
+USER_000007,SESS_0cb71ca0-6830-4a34-846e-55b33131507a,2025-05-20 13:30:32,2025-05-20 13:37:01,"['Card Management', 'Statement Download', 'Bill Pay', 'Transfer Money', 'Account Balance']",389.0
+USER_000051,SESS_4b7b9691-3ff4-4c29-baac-f4e96f1f204f,2025-05-28 15:35:21,2025-05-28 15:50:51,"['Statement Download', 'Card Management', 'Account Balance']",930.0
+USER_000069,SESS_ca608a70-ee8b-4495-9f27-1aca77c565b5,2025-05-26 22:49:55,2025-05-26 23:41:56,"['Account Balance', 'Card Management', 'Statement Download', 'Transfer Money', 'Bill Pay']",3121.0
+USER_000087,SESS_6b4a2c58-d674-4faa-9c34-219ba182dc6b,2025-06-08 04:59:57,2025-06-08 05:54:40,"['Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management']",3283.0
+USER_000082,SESS_bee62ae6-8e41-4360-848b-6b1cc4d7d0bf,2025-06-12 17:45:38,2025-06-12 18:00:44,"['Transfer Money', 'Bill Pay', 'Statement Download']",906.0
+USER_000046,SESS_880dc0fc-2dee-4129-8125-e1009a24f3d4,2025-05-28 06:48:38,2025-05-28 07:09:49,"['Statement Download', 'Card Management', 'Bill Pay']",1271.0
+USER_000026,SESS_a4f327f1-e048-4d32-afc4-a9f071148324,2025-05-26 14:37:03,2025-05-26 15:31:35,"['Bill Pay', 'Card Management', 'Transfer Money', 'Statement Download', 'Account Balance']",3272.0
+USER_000094,SESS_ac3a1f5e-d321-4cfa-b054-128b4507ee2f,2025-06-07 15:00:43,2025-06-07 15:05:58,"['Transfer Money', 'Bill Pay', 'Card Management', 'Account Balance', 'Statement Download']",315.0
+USER_000002,SESS_bf92d2bc-7e61-435c-a799-39ebafb9f6eb,2025-06-04 11:28:19,2025-06-04 11:58:56,"['Statement Download', 'Card Management', 'Bill Pay', 'Account Balance', 'Transfer Money']",1837.0
+USER_000059,SESS_13ea3716-2381-454b-84b1-55fa0f3b5fb9,2025-06-05 11:14:02,2025-06-05 11:59:40,"['Account Balance', 'Transfer Money', 'Statement Download', 'Bill Pay', 'Card Management']",2738.0
+USER_000053,SESS_444b1ead-7c4a-441c-9290-adce19649bb9,2025-06-11 08:48:39,2025-06-11 08:56:27,"['Transfer Money', 'Statement Download', 'Bill Pay', 'Card Management', 'Account Balance']",468.0
+USER_000055,SESS_cfb03198-ee75-4a11-bfe3-7f7e08b000b4,2025-05-22 21:45:20,2025-05-22 21:53:04,"['Statement Download', 'Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money']",464.0
+USER_000013,SESS_d5bc1818-989b-46c8-810f-afff859da73e,2025-06-02 04:53:05,2025-06-02 05:51:11,"['Bill Pay', 'Account Balance', 'Card Management', 'Statement Download', 'Transfer Money']",3486.0
+USER_000038,SESS_26a99979-a137-42ff-8e32-613dcb78fffc,2025-06-13 18:34:19,2025-06-13 18:47:45,"['Account Balance', 'Bill Pay', 'Card Management', 'Transfer Money', 'Statement Download']",806.0
+USER_000008,SESS_959cc111-b9bf-4d4d-bc9a-a7cbbd9fc3d1,2025-06-07 14:00:40,2025-06-07 14:13:02,"['Account Balance', 'Transfer Money', 'Bill Pay', 'Statement Download']",742.0
+USER_000047,SESS_37c00e6c-e19c-4973-a51f-0277dfd0c48c,2025-06-11 21:01:37,2025-06-11 21:12:31,"['Card Management', 'Statement Download', 'Bill Pay', 'Account Balance']",654.0
+USER_000049,SESS_c3b34d4e-0e5c-454b-bd0c-347a5ab1eac4,2025-06-08 06:44:57,2025-06-08 06:53:01,"['Statement Download', 'Bill Pay', 'Transfer Money', 'Card Management']",484.0
+USER_000039,SESS_08e14838-775a-4fab-b2c5-60c610d69e9e,2025-05-20 15:49:20,2025-05-20 16:31:52,"['Statement Download', 'Card Management', 'Bill Pay', 'Account Balance']",2552.0
+USER_000032,SESS_f5abee2e-74b7-4458-93af-3e0c4c595ef0,2025-05-25 04:56:52,2025-05-25 05:50:14,"['Statement Download', 'Card Management', 'Bill Pay', 'Transfer Money', 'Account Balance']",3202.0
+USER_000035,SESS_f387b51c-cd82-49da-9894-5e06033bfb7b,2025-06-06 14:12:41,2025-06-06 14:43:21,"['Transfer Money', 'Statement Download', 'Bill Pay', 'Account Balance', 'Card Management']",1840.0
+USER_000007,SESS_4b804dd2-2a74-4bce-b0ca-b6780112f7d4,2025-05-21 23:06:50,2025-05-21 23:28:58,"['Account Balance', 'Bill Pay', 'Card Management', 'Transfer Money']",1328.0
+USER_000067,SESS_0ccfc47f-edc9-4a7a-ad8c-49fee6c24520,2025-05-19 11:21:31,2025-05-19 12:04:51,"['Account Balance', 'Card Management', 'Bill Pay', 'Transfer Money', 'Statement Download']",2600.0
+USER_000054,SESS_62e37178-0e72-4c66-82eb-109188b0f9ba,2025-06-09 09:09:09,2025-06-09 09:25:28,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Card Management']",979.0
+USER_000011,SESS_459895ec-b2f7-4acd-b52d-f4a517d684b9,2025-06-11 10:07:00,2025-06-11 10:30:09,"['Account Balance', 'Bill Pay', 'Card Management', 'Transfer Money', 'Statement Download']",1389.0
+USER_000041,SESS_4abf1041-9e37-4262-b93d-35eccc09d046,2025-05-26 00:52:45,2025-05-26 01:48:45,"['Transfer Money', 'Card Management', 'Account Balance', 'Bill Pay', 'Statement Download']",3360.0
+USER_000017,SESS_210b18ba-3cc5-4179-9689-ea0b5b63fd00,2025-05-28 04:15:34,2025-05-28 04:24:32,"['Bill Pay', 'Account Balance', 'Statement Download']",538.0
+USER_000005,SESS_bf40d0cd-56bf-4044-a99c-4b46644ca3c6,2025-05-30 23:24:19,2025-05-30 23:47:08,"['Transfer Money', 'Account Balance', 'Statement Download', 'Card Management', 'Bill Pay']",1369.0
+USER_000045,SESS_3d20dd10-e8be-4c5e-9320-602685247c17,2025-05-24 03:22:39,2025-05-24 03:32:00,"['Transfer Money', 'Account Balance', 'Bill Pay', 'Statement Download', 'Card Management']",561.0
+USER_000004,SESS_97f71431-9768-4a2b-ac1d-d81ff195b12f,2025-05-17 07:17:46,2025-05-17 07:29:23,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance', 'Card Management']",697.0
+USER_000093,SESS_b2ea3c98-5bcf-431a-b80f-bd1936de41ba,2025-06-01 01:03:58,2025-06-01 01:29:04,"['Statement Download', 'Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money']",1506.0
+USER_000096,SESS_aaeffc6e-5bc0-4cf9-9fcb-1f6f81ffc6c8,2025-05-22 07:13:23,2025-05-22 07:44:54,"['Account Balance', 'Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money']",1891.0
+USER_000098,SESS_fa70f4d3-6654-4c83-b82f-246a322cf507,2025-06-05 04:26:40,2025-06-05 05:12:30,"['Transfer Money', 'Statement Download', 'Account Balance', 'Card Management', 'Bill Pay']",2750.0
+USER_000014,SESS_4e758b87-c9f6-4843-851f-e3bf98c0d650,2025-05-18 15:58:50,2025-05-18 16:58:07,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download']",3557.0
+USER_000096,SESS_48aeda9a-8be3-4b66-b283-d7c1d82abd6a,2025-06-01 19:09:20,2025-06-01 19:16:11,"['Bill Pay', 'Statement Download', 'Transfer Money', 'Account Balance', 'Card Management']",411.0
+USER_000051,SESS_15c0f154-1e25-4565-9716-d3508536e552,2025-06-10 00:29:31,2025-06-10 01:00:53,"['Statement Download', 'Transfer Money', 'Card Management', 'Bill Pay', 'Account Balance']",1882.0
+USER_000054,SESS_9aee9f71-bb9a-4c23-b37e-12ee01298041,2025-06-02 18:25:59,2025-06-02 18:57:15,"['Statement Download', 'Bill Pay', 'Transfer Money', 'Card Management']",1876.0
+USER_000056,SESS_039b4d9d-9987-48ca-a47a-69bdf74dea26,2025-05-25 22:47:14,2025-05-25 23:15:08,"['Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download', 'Account Balance']",1674.0
+USER_000085,SESS_98c4acf7-0d6d-4269-9c7a-634f8b676203,2025-05-24 22:07:01,2025-05-24 22:23:54,"['Account Balance', 'Card Management', 'Transfer Money', 'Statement Download', 'Bill Pay']",1013.0
+USER_000050,SESS_9bd2a4ee-e631-4d34-9218-75a736cd0cab,2025-05-21 14:37:17,2025-05-21 14:50:17,"['Statement Download', 'Transfer Money', 'Card Management', 'Bill Pay', 'Account Balance']",780.0
+USER_000033,SESS_ac51d6ff-ac00-413a-8ee9-89e4650005f0,2025-06-06 14:18:33,2025-06-06 15:16:14,"['Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download', 'Account Balance']",3461.0
+USER_000058,SESS_6859fd16-92f1-43fb-bce8-d1dbd2c28361,2025-06-08 23:28:21,2025-06-08 23:50:27,"['Transfer Money', 'Bill Pay', 'Account Balance', 'Card Management', 'Statement Download']",1326.0
+USER_000062,SESS_e95cd396-170a-4266-bc49-de82c537a62b,2025-05-24 20:36:45,2025-05-24 21:10:48,"['Transfer Money', 'Account Balance', 'Statement Download', 'Card Management', 'Bill Pay']",2043.0
+USER_000062,SESS_e0178eb6-3907-48ef-9487-a89f0628f04a,2025-05-22 18:59:08,2025-05-22 19:29:32,"['Statement Download', 'Card Management', 'Account Balance', 'Bill Pay', 'Transfer Money']",1824.0
+USER_000064,SESS_7744e56b-4e83-4895-ac3b-f205b47d020d,2025-06-02 19:23:26,2025-06-02 20:15:59,"['Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management']",3153.0
+USER_000001,SESS_0c16083b-a931-4f29-bc3e-5c9d6ce52686,2025-05-30 13:46:48,2025-05-30 14:06:19,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Card Management', 'Account Balance']",1171.0
+USER_000066,SESS_5501b8e5-2010-4ca1-9955-735390f3444c,2025-06-06 10:19:48,2025-06-06 10:55:41,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download', 'Card Management']",2153.0
+USER_000047,SESS_571ec75d-d8a9-4519-9e6a-07686e90eca3,2025-05-16 21:02:26,2025-05-16 21:35:47,"['Card Management', 'Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance']",2001.0
+USER_000067,SESS_25904e4b-f54a-4a7e-9c75-040d230cb7f0,2025-05-28 22:39:22,2025-05-28 22:49:24,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download']",602.0
+USER_000032,SESS_86c9b54e-ed3e-4820-8558-198656f176e4,2025-06-11 17:51:13,2025-06-11 18:06:29,"['Transfer Money', 'Card Management', 'Bill Pay']",916.0
+USER_000035,SESS_c76d3e20-6001-484d-80aa-5a2fc763c6a8,2025-05-26 21:59:01,2025-05-26 22:24:59,"['Statement Download', 'Account Balance', 'Bill Pay', 'Card Management', 'Transfer Money']",1558.0
+USER_000092,SESS_18eff3c4-cbda-42a3-9827-c1752e675f1d,2025-06-04 10:37:38,2025-06-04 11:12:22,"['Statement Download', 'Card Management', 'Bill Pay', 'Transfer Money', 'Account Balance']",2084.0
+USER_000018,SESS_7cccb62e-734e-4471-9c14-80ab557e63b1,2025-06-02 20:51:10,2025-06-02 21:25:01,"['Account Balance', 'Card Management', 'Transfer Money', 'Bill Pay']",2031.0
+USER_000080,SESS_c0f1e798-c1cf-4890-9848-7451514e02f1,2025-05-22 14:33:56,2025-05-22 15:22:41,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Card Management', 'Statement Download']",2925.0
+USER_000076,SESS_fb590c6c-1346-4286-ac8b-1a8cbb679eac,2025-06-06 20:57:35,2025-06-06 21:15:05,"['Statement Download', 'Account Balance', 'Transfer Money', 'Card Management', 'Bill Pay']",1050.0
+USER_000022,SESS_70186663-b39a-4434-b468-6f45972f8923,2025-06-10 05:41:11,2025-06-10 06:33:20,"['Statement Download', 'Card Management', 'Transfer Money', 'Bill Pay']",3129.0
+USER_000056,SESS_4956dc0e-acab-40f8-9bf0-1e80f4ad48d1,2025-06-09 07:48:21,2025-06-09 08:23:13,"['Account Balance', 'Transfer Money', 'Bill Pay']",2092.0
+USER_000026,SESS_44c575e6-85b3-4762-8ef0-e7ace4fe8a2b,2025-06-15 00:54:58,2025-06-15 01:03:43,"['Transfer Money', 'Card Management', 'Statement Download', 'Bill Pay', 'Account Balance']",525.0
+USER_000093,SESS_39186202-dc70-407f-8f4a-f2f67a68e2e8,2025-05-19 03:35:39,2025-05-19 04:22:54,"['Statement Download', 'Account Balance', 'Card Management', 'Transfer Money', 'Bill Pay']",2835.0
+USER_000042,SESS_f401ce53-8d74-4368-98eb-0b04a8b2925e,2025-06-11 06:50:01,2025-06-11 07:41:14,"['Card Management', 'Account Balance', 'Bill Pay']",3073.0
+USER_000005,SESS_9ecc5612-5ea5-4022-9455-2e8057b4a6ed,2025-05-25 03:17:56,2025-05-25 03:36:11,"['Bill Pay', 'Card Management', 'Transfer Money', 'Statement Download']",1095.0
+USER_000090,SESS_e5e50acd-75a9-4025-a45b-d64635b22385,2025-06-03 05:47:28,2025-06-03 06:22:30,"['Card Management', 'Account Balance', 'Statement Download', 'Bill Pay', 'Transfer Money']",2102.0
+USER_000013,SESS_41ea634b-9d6a-4d18-a52d-306a6b8e8dec,2025-06-08 16:29:01,2025-06-08 16:38:50,"['Card Management', 'Bill Pay', 'Statement Download', 'Account Balance', 'Transfer Money']",589.0
+USER_000059,SESS_6014f848-c472-4906-b5d3-a45d168a4fca,2025-06-12 05:30:22,2025-06-12 06:29:55,"['Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay', 'Statement Download']",3573.0
+USER_000007,SESS_c408eb8f-49ee-402e-b58f-c6697c648c91,2025-06-02 17:00:10,2025-06-02 17:26:20,"['Account Balance', 'Card Management', 'Statement Download', 'Bill Pay', 'Transfer Money']",1570.0
+USER_000061,SESS_9e50a18c-385d-4720-be90-0116b994f5c5,2025-05-19 19:19:30,2025-05-19 20:18:43,"['Statement Download', 'Transfer Money', 'Card Management', 'Account Balance', 'Bill Pay']",3553.0
+USER_000015,SESS_6ea179a9-748c-4cfe-96dd-90a895a04719,2025-06-10 22:37:48,2025-06-10 23:11:58,"['Card Management', 'Bill Pay', 'Statement Download']",2050.0
+USER_000038,SESS_492e0103-72af-4652-9bb3-d9a140ff508e,2025-05-23 06:09:42,2025-05-23 06:59:10,"['Account Balance', 'Bill Pay', 'Statement Download', 'Card Management', 'Transfer Money']",2968.0
+USER_000001,SESS_40f88b91-dd9f-4633-b91c-c79f1166b068,2025-05-30 00:26:27,2025-05-30 00:41:12,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",885.0
+USER_000081,SESS_d226387b-9478-4acf-9f14-7a734cff3c50,2025-05-31 11:31:33,2025-05-31 11:53:08,"['Card Management', 'Statement Download', 'Bill Pay', 'Transfer Money', 'Account Balance']",1295.0
+USER_000097,SESS_42dbfdc4-d276-4127-b282-5303efb4d733,2025-05-30 12:24:44,2025-05-30 13:21:28,"['Account Balance', 'Card Management', 'Transfer Money']",3404.0
+USER_000058,SESS_192c9ea1-eea3-4701-8f4d-d88fa67042fd,2025-05-30 19:03:50,2025-05-30 19:36:53,"['Account Balance', 'Bill Pay', 'Card Management', 'Statement Download', 'Transfer Money']",1983.0
+USER_000040,SESS_eb50b910-8e7c-4d8b-aba3-fdc63390116f,2025-05-18 20:18:17,2025-05-18 21:12:13,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",3236.0
+USER_000032,SESS_1c47380e-2161-40a2-94ce-10bc69564ff9,2025-06-11 19:52:56,2025-06-11 20:43:58,"['Statement Download', 'Bill Pay', 'Card Management']",3062.0
+USER_000075,SESS_d09d7a5f-cbf2-4912-ad79-1db0a3a26634,2025-05-21 23:20:21,2025-05-21 23:42:35,"['Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance', 'Statement Download']",1334.0
+USER_000027,SESS_553e328c-de08-4fb7-ae3b-f46e293b4c74,2025-06-07 12:44:41,2025-06-07 13:00:49,"['Account Balance', 'Card Management', 'Bill Pay']",968.0
+USER_000028,SESS_94d14cfe-7a6e-41b2-9bd0-bd6d6e2f557c,2025-06-07 11:54:25,2025-06-07 12:21:34,"['Transfer Money', 'Account Balance', 'Statement Download']",1629.0
+USER_000042,SESS_bf966ec9-b720-4704-85f5-9b0408690b53,2025-05-24 01:58:21,2025-05-24 02:39:05,"['Statement Download', 'Account Balance', 'Transfer Money', 'Bill Pay']",2444.0
+USER_000039,SESS_6fbe81d7-cad5-4644-a509-ce413a247ee8,2025-05-21 22:18:37,2025-05-21 22:51:46,"['Statement Download', 'Transfer Money', 'Account Balance', 'Bill Pay', 'Card Management']",1989.0
+USER_000006,SESS_87b9b402-0f79-48c4-b079-e4d6a0b14009,2025-06-02 06:20:47,2025-06-02 06:43:22,"['Statement Download', 'Transfer Money', 'Card Management', 'Account Balance', 'Bill Pay']",1355.0
+USER_000024,SESS_2edaee0f-8cba-4d0c-970f-8ad1cf42b714,2025-06-05 09:09:28,2025-06-05 09:55:47,"['Bill Pay', 'Account Balance', 'Statement Download', 'Transfer Money', 'Card Management']",2779.0
+USER_000023,SESS_33978360-db03-4447-8d2c-be2357037ea7,2025-05-25 20:44:24,2025-05-25 21:17:29,"['Statement Download', 'Transfer Money', 'Account Balance', 'Bill Pay']",1985.0
+USER_000029,SESS_c5d069d8-e144-4c7b-8650-51b6570e6295,2025-06-13 07:09:43,2025-06-13 08:00:53,"['Account Balance', 'Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money']",3070.0
+USER_000029,SESS_3e88ab8c-b6c6-448d-b9bf-ab36f30fd8b2,2025-05-17 01:28:08,2025-05-17 02:19:19,"['Statement Download', 'Account Balance', 'Transfer Money', 'Card Management', 'Bill Pay']",3071.0
+USER_000021,SESS_c53787eb-22de-4a7d-9458-d6e6de564214,2025-06-02 21:42:25,2025-06-02 22:17:42,"['Bill Pay', 'Transfer Money', 'Statement Download']",2117.0
+USER_000000,SESS_097fabe7-0da5-4f63-93e0-4b1f13520389,2025-06-07 02:18:46,2025-06-07 02:36:57,"['Transfer Money', 'Card Management', 'Bill Pay', 'Account Balance', 'Statement Download']",1091.0
+USER_000068,SESS_e47536c0-a683-4ef4-b41c-52beb86e889f,2025-06-13 01:16:13,2025-06-13 01:28:24,"['Statement Download', 'Bill Pay', 'Account Balance', 'Card Management', 'Transfer Money']",731.0
+USER_000057,SESS_a3634518-e645-4a27-829e-ecb2caa64d86,2025-06-09 04:39:29,2025-06-09 05:15:06,"['Transfer Money', 'Account Balance', 'Card Management', 'Statement Download']",2137.0
+USER_000038,SESS_1bf619bf-5113-46c6-a679-a27390804f1f,2025-05-31 19:53:14,2025-05-31 20:49:47,"['Statement Download', 'Account Balance', 'Transfer Money', 'Card Management', 'Bill Pay']",3393.0
+USER_000001,SESS_3caa49a8-43e8-4449-933c-9a5a8fa5e63e,2025-06-10 01:51:29,2025-06-10 02:12:46,"['Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay']",1277.0
+USER_000091,SESS_bea4feda-44ae-4dbd-a433-3e2653b8f692,2025-06-12 00:36:02,2025-06-12 00:55:53,"['Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay']",1191.0
+USER_000088,SESS_08b8e7cb-36ed-4560-b1c6-b647bc4fe784,2025-05-25 00:03:22,2025-05-25 00:33:36,"['Card Management', 'Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money']",1814.0
+USER_000079,SESS_45697073-5f80-49e1-9060-6bb9e928c08c,2025-06-12 02:37:28,2025-06-12 02:59:44,"['Bill Pay', 'Card Management', 'Transfer Money', 'Account Balance', 'Statement Download']",1336.0
+USER_000086,SESS_ba29a824-9716-47c8-bc6d-8ab34327a1f0,2025-05-19 08:48:00,2025-05-19 08:57:14,"['Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download', 'Account Balance']",554.0
+USER_000001,SESS_6487dc03-3ee4-417c-89f0-5a0563bc1344,2025-06-02 06:58:35,2025-06-02 07:11:59,"['Statement Download', 'Transfer Money', 'Account Balance', 'Bill Pay', 'Card Management']",804.0
+USER_000010,SESS_530470c7-71b9-4735-ad64-789d34c9e2eb,2025-05-31 20:13:03,2025-05-31 20:58:51,"['Statement Download', 'Bill Pay', 'Account Balance', 'Transfer Money', 'Card Management']",2748.0
+USER_000009,SESS_e09532b1-1bb8-44bc-850f-e8ab7d9f8a23,2025-06-05 04:37:07,2025-06-05 05:27:02,"['Statement Download', 'Bill Pay', 'Account Balance', 'Transfer Money', 'Card Management']",2995.0
+USER_000076,SESS_abb8ed09-3c50-4242-833e-28a79da23044,2025-05-28 12:23:47,2025-05-28 13:07:48,"['Bill Pay', 'Card Management', 'Statement Download', 'Transfer Money', 'Account Balance']",2641.0
+USER_000014,SESS_ebe809cc-8a47-4791-ab53-df3430878efb,2025-06-06 11:27:01,2025-06-06 11:39:33,"['Account Balance', 'Transfer Money', 'Statement Download', 'Card Management', 'Bill Pay']",752.0
+USER_000021,SESS_d2836994-86a1-4258-b236-3f4d7927eed1,2025-06-13 10:23:27,2025-06-13 10:52:32,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",1745.0
+USER_000033,SESS_f22a8a4a-d777-4759-ba6f-56830c356de7,2025-06-03 05:03:45,2025-06-03 05:49:01,"['Account Balance', 'Statement Download', 'Card Management', 'Bill Pay', 'Transfer Money']",2716.0
+USER_000019,SESS_fbd2defa-e468-45d5-bd5b-7910bfe12bf8,2025-05-21 00:31:00,2025-05-21 01:09:44,"['Transfer Money', 'Account Balance', 'Statement Download', 'Card Management', 'Bill Pay']",2324.0
+USER_000001,SESS_3a20b16b-14cb-442d-bb3d-90a532080bb7,2025-05-29 21:12:40,2025-05-29 21:59:01,"['Card Management', 'Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance']",2781.0
+USER_000053,SESS_621e7536-c0d3-48f5-a92f-2367da492fa7,2025-05-22 22:42:25,2025-05-22 22:57:47,"['Card Management', 'Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance']",922.0
+USER_000040,SESS_e5870396-a81c-4fe9-a8ff-eea8ff6d7569,2025-05-31 09:59:40,2025-05-31 10:37:16,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download']",2256.0
+USER_000041,SESS_f224d794-bc5b-4886-8180-0efde01dd7ee,2025-06-03 12:17:43,2025-06-03 13:12:50,"['Bill Pay', 'Statement Download', 'Account Balance', 'Card Management', 'Transfer Money']",3307.0
+USER_000064,SESS_18c6b3a5-035b-409c-8576-dc6c73e26f1f,2025-06-11 06:09:32,2025-06-11 06:18:18,"['Card Management', 'Account Balance', 'Transfer Money', 'Bill Pay', 'Statement Download']",526.0
+USER_000080,SESS_a4795934-c255-41c7-b503-b1ca4ae47fee,2025-05-26 23:28:34,2025-05-26 23:57:05,"['Statement Download', 'Transfer Money', 'Account Balance', 'Bill Pay', 'Card Management']",1711.0
+USER_000041,SESS_67df5fed-0f87-4c1b-b896-b2c8c7746db0,2025-06-12 16:17:22,2025-06-12 16:41:33,"['Card Management', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Account Balance']",1451.0
+USER_000066,SESS_5ccd421e-2024-4b91-a4af-b6ea0afe3063,2025-06-15 13:53:03,2025-06-15 14:50:30,"['Account Balance', 'Statement Download', 'Bill Pay']",3447.0
+USER_000028,SESS_e5cc1e15-2c41-4450-bee7-468cb8c45332,2025-05-30 22:11:03,2025-05-30 22:44:06,"['Card Management', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance']",1983.0
+USER_000007,SESS_09d4ec19-7e76-4da9-a871-6aa7d1b3e766,2025-05-17 10:32:38,2025-05-17 10:41:29,"['Statement Download', 'Bill Pay', 'Account Balance', 'Transfer Money', 'Card Management']",531.0
+USER_000040,SESS_76ebf92b-cdb8-4b8f-8a11-6f01f38d1fd5,2025-06-04 13:20:32,2025-06-04 14:13:30,"['Card Management', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance']",3178.0
+USER_000047,SESS_5fff62e6-ced4-4f18-b3bf-f07294dfb241,2025-06-10 02:16:02,2025-06-10 02:31:07,"['Transfer Money', 'Bill Pay', 'Account Balance', 'Card Management', 'Statement Download']",905.0
+USER_000063,SESS_f5b49b5b-6433-4dd8-9498-2e885151afff,2025-05-31 19:26:19,2025-05-31 19:36:05,"['Card Management', 'Bill Pay', 'Account Balance', 'Statement Download', 'Transfer Money']",586.0
+USER_000094,SESS_585b529c-e622-4fc1-a716-3a5239c87fb8,2025-05-26 05:03:10,2025-05-26 05:17:37,"['Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money', 'Statement Download']",867.0
+USER_000079,SESS_5ae52e49-190a-4c9b-be9f-56a03926d5f1,2025-06-08 17:27:11,2025-06-08 17:48:36,"['Card Management', 'Transfer Money', 'Bill Pay', 'Statement Download', 'Account Balance']",1285.0
+USER_000085,SESS_a6374c72-258e-4354-8eb1-3527ea25effc,2025-05-19 11:59:11,2025-05-19 12:06:27,"['Card Management', 'Account Balance', 'Transfer Money', 'Statement Download', 'Bill Pay']",436.0
+USER_000087,SESS_cd4926a8-18a0-402b-a88b-17d0068de3c8,2025-06-05 07:12:40,2025-06-05 08:02:33,"['Statement Download', 'Account Balance', 'Card Management', 'Transfer Money', 'Bill Pay']",2993.0
+USER_000083,SESS_55235da9-107e-496e-b559-aa9610169464,2025-06-09 19:38:27,2025-06-09 20:37:30,"['Transfer Money', 'Account Balance', 'Bill Pay', 'Statement Download', 'Card Management']",3543.0
+USER_000062,SESS_8c9c2ae0-296b-42ec-895e-aacd2eabf292,2025-05-20 01:46:44,2025-05-20 02:15:41,"['Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management']",1737.0
+USER_000006,SESS_e95a4de7-af56-4acb-b9b4-598a3b67321c,2025-06-13 15:02:22,2025-06-13 15:47:58,"['Account Balance', 'Card Management', 'Bill Pay']",2736.0
+USER_000025,SESS_de76688a-ff07-4b74-a0b4-366e5a136dc0,2025-06-04 22:59:53,2025-06-04 23:04:56,"['Statement Download', 'Card Management', 'Transfer Money', 'Bill Pay', 'Account Balance']",303.0
+USER_000075,SESS_bd799416-a4d6-40f7-89b9-088036eb09a8,2025-05-21 19:53:38,2025-05-21 20:17:39,"['Card Management', 'Bill Pay', 'Account Balance', 'Transfer Money', 'Statement Download']",1441.0
+USER_000068,SESS_a09ca8d4-6610-4e33-9e87-ad144458293d,2025-05-18 22:51:14,2025-05-18 23:18:03,"['Card Management', 'Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money']",1609.0
+USER_000074,SESS_ca501de3-87d8-469d-ae5b-f81e08c8a141,2025-06-04 20:40:43,2025-06-04 21:23:33,"['Account Balance', 'Transfer Money', 'Statement Download', 'Bill Pay', 'Card Management']",2570.0
+USER_000013,SESS_bdbd2543-0ce4-4aa6-83b4-d12e60f4015c,2025-06-01 04:24:37,2025-06-01 05:04:33,"['Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance', 'Statement Download']",2396.0
+USER_000029,SESS_234edefc-ebce-4899-be4f-73c2587555be,2025-06-11 02:22:26,2025-06-11 03:14:17,"['Account Balance', 'Card Management', 'Statement Download', 'Bill Pay', 'Transfer Money']",3111.0
+USER_000046,SESS_69f619ee-0386-47b0-ad84-6b83793cda8f,2025-05-30 18:30:28,2025-05-30 18:42:00,"['Bill Pay', 'Card Management', 'Account Balance', 'Statement Download', 'Transfer Money']",692.0
+USER_000009,SESS_d22d37ac-d57a-4b6c-8831-ca5cb17ea57f,2025-06-12 08:14:14,2025-06-12 08:24:37,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",623.0
+USER_000098,SESS_10f657aa-d7a0-41e9-bf52-1219661a065f,2025-05-22 11:44:34,2025-05-22 12:28:03,"['Card Management', 'Statement Download', 'Account Balance']",2609.0
+USER_000072,SESS_97fac56e-dae7-4c64-aa06-95f9966bda04,2025-05-17 06:51:55,2025-05-17 07:22:54,"['Account Balance', 'Bill Pay', 'Statement Download', 'Card Management', 'Transfer Money']",1859.0
+USER_000084,SESS_2f974ce7-957f-42f2-9764-feb6dff59874,2025-05-27 11:17:52,2025-05-27 11:37:05,"['Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download', 'Account Balance']",1153.0
+USER_000094,SESS_e956a229-41b0-40b3-8efa-66688ae40900,2025-06-04 20:24:34,2025-06-04 21:16:48,"['Account Balance', 'Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download']",3134.0
+USER_000039,SESS_5ee69e07-4ec9-4675-946e-8d87ecad0861,2025-05-29 00:28:19,2025-05-29 00:35:48,"['Account Balance', 'Transfer Money', 'Card Management', 'Statement Download', 'Bill Pay']",449.0
+USER_000068,SESS_85981217-a90b-424c-8367-8e35de7a2547,2025-06-09 22:07:33,2025-06-09 22:30:36,"['Transfer Money', 'Bill Pay', 'Account Balance', 'Statement Download', 'Card Management']",1383.0
+USER_000004,SESS_9eea6b8e-d88b-48f4-b487-57e2abb45cb1,2025-06-10 22:19:46,2025-06-10 22:50:42,"['Statement Download', 'Bill Pay', 'Card Management']",1856.0
+USER_000092,SESS_9c7a9d0d-99c5-4d4d-987b-f23ba58a5b09,2025-06-01 15:47:02,2025-06-01 15:57:53,"['Card Management', 'Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay']",651.0
+USER_000064,SESS_bcb6cdc2-cc0d-4643-be68-48da190ba879,2025-06-06 08:39:19,2025-06-06 09:36:14,"['Bill Pay', 'Transfer Money', 'Statement Download', 'Account Balance', 'Card Management']",3415.0
+USER_000038,SESS_015086b3-b8e2-4c05-896c-798cfa2a34de,2025-06-09 13:18:44,2025-06-09 13:38:26,"['Account Balance', 'Statement Download', 'Card Management', 'Bill Pay', 'Transfer Money']",1182.0
+USER_000040,SESS_6cc21e3c-2120-4a77-8237-8b8b9bf6fd30,2025-05-19 12:05:56,2025-05-19 12:21:51,"['Bill Pay', 'Statement Download', 'Card Management', 'Account Balance', 'Transfer Money']",955.0
+USER_000086,SESS_52cd8d6b-263d-407e-a25a-8559b108ad5b,2025-05-26 17:31:30,2025-05-26 17:57:52,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Card Management']",1582.0
+USER_000099,SESS_157358f3-3c6f-4d58-a599-ca831e28bb65,2025-05-16 20:26:09,2025-05-16 21:24:26,"['Statement Download', 'Account Balance', 'Card Management', 'Transfer Money']",3497.0
+USER_000081,SESS_de072c98-f0a5-4944-9d9a-47e8c6cd3778,2025-05-17 13:23:10,2025-05-17 13:56:08,"['Bill Pay', 'Account Balance', 'Statement Download', 'Card Management', 'Transfer Money']",1978.0
+USER_000017,SESS_3dd2fc31-dc31-4b16-8d32-235e3064d004,2025-06-08 08:50:45,2025-06-08 09:08:32,"['Bill Pay', 'Account Balance', 'Card Management', 'Statement Download']",1067.0
+USER_000088,SESS_8cb73500-a935-4bd9-8490-03b44d2f222b,2025-05-22 12:07:30,2025-05-22 12:40:24,"['Bill Pay', 'Card Management', 'Statement Download']",1974.0
+USER_000047,SESS_c24f06d1-1ae7-4f17-893b-a61f872ed9a5,2025-06-09 07:41:28,2025-06-09 08:09:57,"['Bill Pay', 'Transfer Money', 'Card Management', 'Statement Download', 'Account Balance']",1709.0
+USER_000044,SESS_1ae42c61-2985-42d8-9e9d-cd3f41cf4201,2025-06-11 22:38:00,2025-06-11 23:30:44,"['Account Balance', 'Transfer Money', 'Card Management']",3164.0
+USER_000016,SESS_798cf65e-f2c9-4c30-80b2-3a0991ac7af9,2025-05-23 21:41:56,2025-05-23 21:59:29,"['Transfer Money', 'Account Balance', 'Statement Download', 'Card Management']",1053.0
+USER_000044,SESS_daeceb35-3273-4850-bc4e-2cf7c935a3b6,2025-05-31 04:58:48,2025-05-31 05:20:22,"['Bill Pay', 'Card Management', 'Transfer Money', 'Statement Download', 'Account Balance']",1294.0
+USER_000020,SESS_d4112172-c668-471a-b47f-b5e248697192,2025-05-26 05:52:09,2025-05-26 06:33:15,"['Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance', 'Statement Download']",2466.0
+USER_000090,SESS_49779e17-6729-4038-8de2-4a13f5faa06c,2025-05-23 23:43:36,2025-05-23 23:51:28,"['Bill Pay', 'Statement Download', 'Account Balance', 'Card Management']",472.0
+USER_000020,SESS_aeaa2428-bae9-4c35-a19e-d9d5f21578ce,2025-06-06 04:17:27,2025-06-06 04:49:13,"['Transfer Money', 'Statement Download', 'Card Management', 'Account Balance', 'Bill Pay']",1906.0
+USER_000000,SESS_fd9d8a43-9357-464b-a2e2-5a6755550a1a,2025-06-14 14:12:01,2025-06-14 15:05:15,"['Statement Download', 'Account Balance', 'Bill Pay', 'Card Management', 'Transfer Money']",3194.0
+USER_000063,SESS_d230558e-7392-4c97-919c-4d24d1c2e6ac,2025-05-22 05:56:26,2025-05-22 06:04:04,"['Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money', 'Account Balance']",458.0
+USER_000081,SESS_3d02ae14-658c-4cd7-b3f3-c0492857e509,2025-05-30 09:48:29,2025-05-30 10:00:14,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Card Management', 'Account Balance']",705.0
+USER_000041,SESS_88fc372a-c874-4fdc-9c0a-a527d3b26315,2025-05-22 12:11:33,2025-05-22 12:23:30,"['Card Management', 'Transfer Money', 'Statement Download', 'Account Balance', 'Bill Pay']",717.0
+USER_000085,SESS_63c08cd3-05e2-4101-a134-f843f81240d4,2025-05-19 12:45:15,2025-05-19 13:34:47,"['Bill Pay', 'Statement Download', 'Account Balance', 'Card Management', 'Transfer Money']",2972.0
+USER_000074,SESS_89c431a9-ea8b-46a3-9dda-311d11affbb0,2025-06-03 09:52:08,2025-06-03 10:22:20,"['Statement Download', 'Card Management', 'Account Balance', 'Transfer Money', 'Bill Pay']",1812.0
+USER_000071,SESS_1300a729-399e-4f87-8048-965a90b8cbc3,2025-05-23 06:01:09,2025-05-23 06:11:25,"['Transfer Money', 'Card Management', 'Bill Pay', 'Statement Download']",616.0
+USER_000080,SESS_7071470e-febb-4dce-a7d5-9636a535e5b8,2025-05-25 20:38:08,2025-05-25 21:02:02,"['Account Balance', 'Statement Download', 'Transfer Money', 'Card Management', 'Bill Pay']",1434.0
+USER_000004,SESS_5dc09f4c-c0f6-409e-9a38-c19b9d6a468c,2025-05-19 09:57:29,2025-05-19 10:30:31,"['Bill Pay', 'Card Management', 'Statement Download', 'Account Balance', 'Transfer Money']",1982.0
+USER_000026,SESS_454f5c5a-2e31-498c-aad3-9a39f28577fe,2025-05-29 10:23:16,2025-05-29 11:22:25,"['Card Management', 'Account Balance', 'Statement Download', 'Bill Pay', 'Transfer Money']",3549.0
+USER_000090,SESS_420ad415-e8ec-4c7f-99e5-8a65b81dc7c4,2025-05-31 08:29:32,2025-05-31 09:00:29,"['Card Management', 'Transfer Money', 'Bill Pay', 'Statement Download', 'Account Balance']",1857.0
+USER_000011,SESS_e37d8c80-d6ac-4a94-8120-ed3f3a64f2d3,2025-06-10 14:08:32,2025-06-10 14:43:43,"['Card Management', 'Bill Pay', 'Account Balance', 'Statement Download', 'Transfer Money']",2111.0
+USER_000030,SESS_d74da4f7-58ea-449d-8af8-d151d5e02250,2025-06-14 09:02:46,2025-06-14 09:56:19,"['Statement Download', 'Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay']",3213.0
+USER_000086,SESS_a2e15264-b87c-4e94-b9f7-81369065d28e,2025-06-03 20:38:16,2025-06-03 21:26:42,"['Bill Pay', 'Statement Download', 'Card Management', 'Account Balance', 'Transfer Money']",2906.0
+USER_000002,SESS_48b0ed00-7f32-4c7f-bc71-59d5d33c8081,2025-06-10 05:31:53,2025-06-10 06:02:16,"['Transfer Money', 'Card Management', 'Statement Download']",1823.0
+USER_000044,SESS_2cdbb136-14da-4236-9420-dea5558832d0,2025-06-11 17:28:39,2025-06-11 18:06:52,"['Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay', 'Card Management']",2293.0
+USER_000059,SESS_2429a71d-0ba4-49ad-82c8-3aa8296de264,2025-05-23 03:36:33,2025-05-23 03:42:48,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Statement Download', 'Card Management']",375.0
+USER_000018,SESS_289f9882-5784-4fb0-ad62-73c9c9762e1d,2025-06-08 01:56:06,2025-06-08 02:13:54,"['Transfer Money', 'Statement Download', 'Card Management', 'Account Balance', 'Bill Pay']",1068.0
+USER_000034,SESS_b948410f-d058-4b80-848a-82921f5b3149,2025-06-09 09:31:48,2025-06-09 09:48:45,"['Bill Pay', 'Statement Download', 'Card Management', 'Transfer Money', 'Account Balance']",1017.0
+USER_000096,SESS_df189ba2-9e27-4614-9c78-5256bafcc68f,2025-05-22 10:38:15,2025-05-22 11:11:59,"['Statement Download', 'Card Management', 'Transfer Money', 'Account Balance', 'Bill Pay']",2024.0
+USER_000042,SESS_df4fa66d-6bc0-461a-bc7d-34e4041760d0,2025-05-28 06:33:33,2025-05-28 06:42:27,"['Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money']",534.0
+USER_000013,SESS_62d6bc65-cbea-4210-bccc-5334d93c9d0d,2025-06-06 23:06:37,2025-06-06 23:13:37,"['Transfer Money', 'Card Management', 'Bill Pay', 'Statement Download', 'Account Balance']",420.0
+USER_000030,SESS_23ea5b84-c9bc-4284-92fd-012f4ccda190,2025-05-31 05:45:37,2025-05-31 06:28:56,"['Card Management', 'Transfer Money', 'Account Balance']",2599.0
+USER_000028,SESS_da4cc6a1-fcd0-40f5-8cef-95ede2032f08,2025-06-04 18:25:23,2025-06-04 19:05:15,"['Statement Download', 'Card Management', 'Account Balance', 'Transfer Money', 'Bill Pay']",2392.0
+USER_000016,SESS_0953da42-2137-46a5-938d-20f870308909,2025-06-12 02:38:08,2025-06-12 03:25:02,"['Transfer Money', 'Card Management', 'Bill Pay', 'Statement Download', 'Account Balance']",2814.0
+USER_000038,SESS_2f355fad-ed40-4adf-8ebf-4a143c56202a,2025-05-17 21:23:04,2025-05-17 21:39:34,"['Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance', 'Statement Download']",990.0
+USER_000006,SESS_5c57f633-ab38-4d30-af45-690b3f067e38,2025-05-25 23:43:43,2025-05-26 00:43:34,"['Bill Pay', 'Account Balance', 'Card Management', 'Statement Download', 'Transfer Money']",3591.0
+USER_000076,SESS_ab232042-59b8-4864-89d0-5057c7f03368,2025-06-03 09:48:15,2025-06-03 10:08:55,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Card Management', 'Account Balance']",1240.0
+USER_000044,SESS_4492bc9d-3504-4004-81c0-96210231322d,2025-06-10 21:12:57,2025-06-10 21:26:45,"['Statement Download', 'Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay']",828.0
+USER_000062,SESS_4c278d46-b96a-4542-a407-e0b1db0882fe,2025-06-02 15:50:23,2025-06-02 16:16:31,"['Card Management', 'Bill Pay', 'Transfer Money', 'Account Balance', 'Statement Download']",1568.0
+USER_000071,SESS_20adb84f-b802-4b40-9bad-9909732d6f4b,2025-06-11 11:48:06,2025-06-11 11:57:06,"['Bill Pay', 'Card Management', 'Statement Download', 'Account Balance', 'Transfer Money']",540.0
+USER_000094,SESS_08220509-893f-4146-ad76-2041ca586c04,2025-06-14 10:45:55,2025-06-14 11:45:04,"['Card Management', 'Transfer Money', 'Statement Download', 'Account Balance', 'Bill Pay']",3549.0
+USER_000034,SESS_51a34dff-6b15-4511-8754-d41dea60bafc,2025-05-30 10:01:38,2025-05-30 10:28:00,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Card Management', 'Statement Download']",1582.0
+USER_000071,SESS_f06af4bd-ea2c-4ad0-a163-64b40a44ab78,2025-06-08 03:44:16,2025-06-08 04:21:27,"['Statement Download', 'Bill Pay', 'Card Management']",2231.0
+USER_000007,SESS_c1b7a8ae-3fde-4175-9703-ac4f3413160c,2025-06-03 02:03:49,2025-06-03 02:21:44,"['Account Balance', 'Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money']",1075.0
+USER_000084,SESS_fd849597-fd2e-4faf-b9f4-312b05857bed,2025-05-21 06:50:09,2025-05-21 07:09:02,"['Statement Download', 'Card Management', 'Account Balance', 'Bill Pay', 'Transfer Money']",1133.0
+USER_000058,SESS_30c6481b-d1b0-432c-b758-ed43b66f169a,2025-05-26 04:22:34,2025-05-26 05:01:58,"['Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money', 'Account Balance']",2364.0
+USER_000080,SESS_5ae93954-7bfb-416b-82c4-cbb79532d913,2025-05-31 19:55:26,2025-05-31 20:06:52,"['Card Management', 'Statement Download', 'Bill Pay', 'Account Balance', 'Transfer Money']",686.0
+USER_000031,SESS_d7f103a6-81b4-4309-857e-7a4668c42329,2025-06-13 18:24:03,2025-06-13 18:50:10,"['Statement Download', 'Transfer Money', 'Bill Pay']",1567.0
+USER_000094,SESS_7521612d-0e06-49e4-9550-056654802df5,2025-06-12 10:16:28,2025-06-12 10:49:59,"['Statement Download', 'Card Management', 'Bill Pay', 'Account Balance', 'Transfer Money']",2011.0
+USER_000080,SESS_e3192e86-a7a8-4647-8bd1-5eb611e741f1,2025-06-05 04:03:40,2025-06-05 04:39:35,"['Statement Download', 'Card Management', 'Account Balance', 'Transfer Money', 'Bill Pay']",2155.0
+USER_000047,SESS_56400e8e-5454-4775-bbf1-a3a24b3b4ca2,2025-05-22 04:39:03,2025-05-22 05:24:31,"['Statement Download', 'Bill Pay', 'Account Balance', 'Card Management']",2728.0
+USER_000025,SESS_1e4569ef-e452-45a7-8571-c5db79206389,2025-05-22 22:06:38,2025-05-22 22:18:17,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",699.0
+USER_000006,SESS_3da86665-5a50-4250-93f0-8c78b6d392ec,2025-05-24 09:26:11,2025-05-24 10:22:42,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",3391.0
+USER_000019,SESS_c124e27f-0cdc-4122-9e4c-03ed3bf0ce1f,2025-06-13 15:05:18,2025-06-13 16:03:07,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Card Management', 'Account Balance']",3469.0
+USER_000035,SESS_5df0551e-04e5-4079-9ae1-41c020388c28,2025-05-20 06:04:38,2025-05-20 06:25:22,"['Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay', 'Card Management']",1244.0
+USER_000067,SESS_81a63798-ddc8-488c-8790-a5956b15369d,2025-05-24 17:24:20,2025-05-24 17:53:21,"['Bill Pay', 'Card Management', 'Transfer Money', 'Statement Download', 'Account Balance']",1741.0
+USER_000086,SESS_31cbb20f-6d05-4d9f-ac78-c2b7a39021b1,2025-05-20 21:58:42,2025-05-20 22:14:35,"['Bill Pay', 'Card Management', 'Statement Download', 'Account Balance', 'Transfer Money']",953.0
+USER_000008,SESS_cea32602-56e2-41b8-b3b6-35e04ef92fa7,2025-06-10 04:17:41,2025-06-10 05:15:27,"['Bill Pay', 'Transfer Money', 'Card Management', 'Account Balance', 'Statement Download']",3466.0
+USER_000039,SESS_2cfbc93f-ff93-4584-9459-7b325c563118,2025-06-08 20:14:58,2025-06-08 20:50:00,"['Account Balance', 'Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download']",2102.0
+USER_000034,SESS_2886f04d-7069-41e3-acc1-a6dbe353abb6,2025-05-23 09:03:21,2025-05-23 09:29:02,"['Account Balance', 'Card Management', 'Statement Download', 'Transfer Money', 'Bill Pay']",1541.0
+USER_000074,SESS_e61a9b89-e660-4242-a1a8-a913ad24fde1,2025-06-08 00:31:12,2025-06-08 01:13:15,"['Account Balance', 'Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money']",2523.0
+USER_000063,SESS_65dbb9f4-174c-49b4-a30c-9cf1f1425f79,2025-05-31 07:07:05,2025-05-31 07:47:58,"['Statement Download', 'Card Management', 'Transfer Money']",2453.0
+USER_000016,SESS_bd826118-6d00-4ba7-8a2c-fe9cc49d9fac,2025-05-18 23:43:56,2025-05-19 00:39:13,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",3317.0
+USER_000032,SESS_d550610c-64b3-4e8e-96eb-689e7984ebef,2025-06-15 07:40:28,2025-06-15 08:22:47,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance', 'Card Management']",2539.0
+USER_000091,SESS_5995c47d-10e9-4c21-ac1a-bfbd9ae14cfa,2025-05-30 04:49:39,2025-05-30 05:48:06,"['Card Management', 'Bill Pay', 'Account Balance', 'Statement Download', 'Transfer Money']",3507.0
+USER_000059,SESS_b2f0346d-3a4e-498a-bfc9-2eef48668ba9,2025-06-06 04:17:47,2025-06-06 05:13:14,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Card Management']",3327.0
+USER_000020,SESS_f28d45be-4695-4c4b-b532-73b39538192d,2025-06-08 21:53:46,2025-06-08 22:36:01,"['Card Management', 'Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money']",2535.0
+USER_000073,SESS_c72a5bc0-2f0b-4ef4-bf01-a18c2ba3c380,2025-06-08 21:01:03,2025-06-08 22:00:16,"['Statement Download', 'Bill Pay', 'Transfer Money', 'Account Balance', 'Card Management']",3553.0
+USER_000057,SESS_6bf8ba8b-c577-436f-a6c6-47b884e7c6d2,2025-05-19 00:04:06,2025-05-19 00:13:56,"['Statement Download', 'Bill Pay', 'Card Management']",590.0
+USER_000023,SESS_1f67be25-cddf-4353-847d-f2d0754c6156,2025-05-17 18:26:13,2025-05-17 18:53:24,"['Statement Download', 'Account Balance', 'Transfer Money', 'Bill Pay', 'Card Management']",1631.0
+USER_000034,SESS_795e1b50-8877-401c-bb5a-190f3bfc36f1,2025-05-25 05:32:26,2025-05-25 05:45:31,"['Statement Download', 'Account Balance', 'Card Management', 'Transfer Money', 'Bill Pay']",785.0
+USER_000025,SESS_79bf8b81-8639-472f-8cb4-6b3e9fa1a642,2025-06-09 18:17:53,2025-06-09 18:59:41,"['Statement Download', 'Card Management', 'Account Balance', 'Transfer Money', 'Bill Pay']",2508.0
+USER_000059,SESS_e1964546-c402-41c0-9e21-5157dc1d717f,2025-06-14 15:00:03,2025-06-14 15:53:25,"['Statement Download', 'Transfer Money', 'Account Balance', 'Card Management', 'Bill Pay']",3202.0
+USER_000037,SESS_c97cdc47-1bbc-4ae7-ba30-696be4d265a6,2025-05-27 15:37:50,2025-05-27 15:53:48,"['Card Management', 'Account Balance', 'Statement Download']",958.0
+USER_000059,SESS_84214daa-1eba-4caa-a784-b113741913fd,2025-05-17 19:10:38,2025-05-17 20:07:59,"['Statement Download', 'Account Balance', 'Transfer Money', 'Card Management', 'Bill Pay']",3441.0
+USER_000068,SESS_00094479-9969-405e-9885-834ddf8f17a2,2025-05-31 20:30:56,2025-05-31 21:20:59,"['Transfer Money', 'Account Balance', 'Statement Download', 'Card Management', 'Bill Pay']",3003.0
+USER_000075,SESS_d8944832-99c3-4178-a0d3-8a9bd1db9774,2025-06-11 18:57:05,2025-06-11 19:02:44,"['Statement Download', 'Account Balance', 'Transfer Money', 'Card Management', 'Bill Pay']",339.0
+USER_000008,SESS_aecfd8bc-12bb-4e23-890d-6466563cb9e3,2025-05-31 02:54:25,2025-05-31 03:25:28,"['Statement Download', 'Account Balance', 'Card Management', 'Bill Pay', 'Transfer Money']",1863.0
+USER_000048,SESS_29fe633b-e72a-4da7-83c7-5774959324ab,2025-06-13 09:09:42,2025-06-13 09:43:36,"['Bill Pay', 'Statement Download', 'Card Management']",2034.0
+USER_000083,SESS_fd2d903c-2da4-4a9e-9ce4-2101d9f28105,2025-06-05 21:42:14,2025-06-05 22:19:26,"['Account Balance', 'Bill Pay', 'Statement Download', 'Card Management']",2232.0
+USER_000098,SESS_db191ba7-949e-4938-8472-d7139d86483a,2025-05-30 18:59:18,2025-05-30 19:15:43,"['Account Balance', 'Bill Pay', 'Card Management', 'Statement Download', 'Transfer Money']",985.0
+USER_000030,SESS_14003c1f-6ab3-403d-aecb-6cd33e07e982,2025-06-13 15:04:59,2025-06-13 15:30:44,"['Account Balance', 'Card Management', 'Transfer Money', 'Statement Download', 'Bill Pay']",1545.0
+USER_000094,SESS_feab03be-8d76-4f5d-90c3-f9268ca6178c,2025-05-19 05:56:20,2025-05-19 06:14:01,"['Transfer Money', 'Statement Download', 'Bill Pay', 'Account Balance', 'Card Management']",1061.0
+USER_000064,SESS_b67cdb91-e627-494c-a236-b74bbd634f4a,2025-05-30 08:19:22,2025-05-30 09:16:40,"['Statement Download', 'Account Balance', 'Card Management', 'Transfer Money', 'Bill Pay']",3438.0
+USER_000088,SESS_95563ada-0267-4c79-9544-c84fda3cb94d,2025-05-21 21:43:32,2025-05-21 21:54:47,"['Account Balance', 'Transfer Money', 'Bill Pay', 'Card Management', 'Statement Download']",675.0
+USER_000049,SESS_9a6b416b-a014-479a-a0a8-ec8fa40e38a3,2025-06-04 22:55:44,2025-06-04 23:19:13,"['Transfer Money', 'Bill Pay', 'Statement Download', 'Account Balance']",1409.0
+USER_000077,SESS_d0a788f6-9344-4fbb-b3d5-f282347faf55,2025-05-25 12:22:31,2025-05-25 12:33:12,"['Transfer Money', 'Statement Download', 'Card Management', 'Bill Pay', 'Account Balance']",641.0
+USER_000028,SESS_9e525b1f-97e5-4337-ad60-a56f5118c380,2025-05-24 15:50:33,2025-05-24 16:31:37,"['Transfer Money', 'Bill Pay', 'Card Management', 'Account Balance', 'Statement Download']",2464.0
+USER_000022,SESS_bdc17e4b-3784-4a9e-b59c-8dd3eababff9,2025-05-26 02:19:36,2025-05-26 03:09:13,"['Transfer Money', 'Statement Download', 'Card Management', 'Bill Pay', 'Account Balance']",2977.0
+USER_000035,SESS_aab6d38a-6415-4bd7-83df-a50bd1850954,2025-06-11 01:35:53,2025-06-11 01:45:15,"['Statement Download', 'Bill Pay', 'Transfer Money']",562.0
+USER_000018,SESS_5a1e3467-85ca-4ed0-b5bf-eb02311e2778,2025-05-20 18:42:56,2025-05-20 19:13:48,"['Account Balance', 'Statement Download', 'Card Management', 'Transfer Money', 'Bill Pay']",1852.0
+USER_000051,SESS_42183758-f331-4c78-bb07-8a4ca256d129,2025-05-26 04:09:19,2025-05-26 05:00:17,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Card Management']",3058.0
+USER_000093,SESS_f21168ea-f245-44c5-b972-7fd19f5b08ce,2025-06-06 21:24:35,2025-06-06 21:48:03,"['Card Management', 'Account Balance', 'Statement Download', 'Bill Pay', 'Transfer Money']",1408.0
+USER_000049,SESS_c55251e5-fc26-4299-bbe0-c2086f30edb9,2025-06-11 20:08:39,2025-06-11 21:07:19,"['Bill Pay', 'Card Management', 'Transfer Money', 'Statement Download', 'Account Balance']",3520.0
+USER_000031,SESS_38647609-9556-454f-b3ca-8065cb889ca4,2025-06-10 16:04:42,2025-06-10 17:03:22,"['Transfer Money', 'Card Management', 'Account Balance', 'Statement Download', 'Bill Pay']",3520.0
+USER_000098,SESS_0b93df73-e212-4c39-b7e0-d337df309fb6,2025-05-20 01:54:59,2025-05-20 02:36:24,"['Transfer Money', 'Bill Pay', 'Account Balance', 'Statement Download', 'Card Management']",2485.0
+USER_000041,SESS_120a2052-1ac7-49f2-9cb0-ec5db9e888b8,2025-05-31 23:05:04,2025-05-31 23:56:40,"['Card Management', 'Account Balance', 'Bill Pay']",3096.0
+USER_000002,SESS_a574925e-5d9c-4eca-84f4-dc18c3ec2f63,2025-06-08 11:47:18,2025-06-08 12:02:04,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Card Management', 'Statement Download']",886.0
+USER_000031,SESS_dc4cde2d-2195-4a60-b037-e2670b08adcc,2025-05-19 09:03:22,2025-05-19 09:59:58,"['Transfer Money', 'Statement Download', 'Bill Pay', 'Card Management', 'Account Balance']",3396.0
+USER_000077,SESS_06efc4b8-229c-45eb-9b0a-bb7153f5b056,2025-06-02 17:56:26,2025-06-02 18:24:15,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Statement Download', 'Card Management']",1669.0
+USER_000084,SESS_675183af-6eaa-4a9a-9d66-4529a1e10a6c,2025-06-04 02:45:22,2025-06-04 03:42:43,"['Transfer Money', 'Card Management', 'Statement Download', 'Bill Pay', 'Account Balance']",3441.0
+USER_000021,SESS_3c18dfe1-82f1-4c10-b7de-bd8c37d8edca,2025-05-21 10:37:31,2025-05-21 11:26:58,"['Card Management', 'Account Balance', 'Transfer Money', 'Bill Pay', 'Statement Download']",2967.0
+USER_000078,SESS_a4470b72-7582-4530-8f22-0d7f2526192b,2025-05-30 16:52:54,2025-05-30 17:02:41,"['Bill Pay', 'Card Management', 'Transfer Money', 'Account Balance', 'Statement Download']",587.0
+USER_000022,SESS_2126d3eb-6d57-40a9-8a2a-3f8577892d0f,2025-06-09 08:33:59,2025-06-09 09:32:31,"['Bill Pay', 'Account Balance', 'Statement Download', 'Card Management', 'Transfer Money']",3512.0
+USER_000088,SESS_637f0b92-64ea-4ded-b1b3-95e1fb7deb2e,2025-05-24 12:24:07,2025-05-24 12:47:12,"['Bill Pay', 'Transfer Money', 'Account Balance', 'Card Management', 'Statement Download']",1385.0
+USER_000053,SESS_3a77f143-bcae-4fa9-86a9-ab16666e2d77,2025-06-10 00:28:32,2025-06-10 01:13:01,"['Card Management', 'Statement Download', 'Account Balance', 'Bill Pay']",2669.0
+USER_000081,SESS_fc40ea4c-96f2-49bd-9646-8e7baf32258f,2025-05-23 00:35:27,2025-05-23 01:12:49,"['Bill Pay', 'Account Balance', 'Statement Download', 'Transfer Money', 'Card Management']",2242.0
+USER_000064,SESS_00ba4aec-fc32-4088-addd-2b84057ccbc0,2025-05-27 16:47:51,2025-05-27 16:54:49,"['Account Balance', 'Card Management', 'Transfer Money', 'Statement Download', 'Bill Pay']",418.0
+USER_000086,SESS_8210dea7-7262-4e05-ad5c-7bd4cdb7b0ab,2025-06-13 20:37:31,2025-06-13 21:24:17,"['Transfer Money', 'Statement Download', 'Account Balance', 'Bill Pay', 'Card Management']",2806.0
+USER_000025,SESS_a7b45d84-490c-46a4-9603-c52f81a59c95,2025-05-24 05:30:09,2025-05-24 06:21:15,"['Statement Download', 'Bill Pay', 'Card Management']",3066.0
+USER_000013,SESS_e9e0813a-03a9-4ffb-bb5d-17a5b18c659e,2025-05-31 09:21:20,2025-05-31 10:08:22,"['Card Management', 'Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay']",2822.0
+USER_000005,SESS_daa41c54-d5d1-4a36-ba0a-4d237ca240bd,2025-06-02 11:05:28,2025-06-02 12:00:26,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",3298.0
+USER_000029,SESS_e302673c-449e-4a66-b694-e1a22e13fe9a,2025-06-01 20:21:03,2025-06-01 21:19:46,"['Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay']",3523.0
+USER_000070,SESS_b8b17c87-8ad0-47b7-a373-6c7b61bbcdfa,2025-05-21 11:36:36,2025-05-21 12:21:27,"['Card Management', 'Transfer Money', 'Statement Download', 'Bill Pay', 'Account Balance']",2691.0
+USER_000026,SESS_92c40b97-44a0-4ce4-a21a-1e2b86c7b9b2,2025-05-22 20:01:30,2025-05-22 20:48:27,"['Card Management', 'Statement Download', 'Bill Pay', 'Transfer Money', 'Account Balance']",2817.0
+USER_000014,SESS_0016023d-ee9f-495c-a4af-03356551f458,2025-06-15 00:51:10,2025-06-15 01:03:24,"['Transfer Money', 'Card Management', 'Account Balance', 'Bill Pay']",734.0
+USER_000030,SESS_6a97349b-393f-4d01-b30a-d8f3943c3de9,2025-05-17 18:18:41,2025-05-17 18:50:43,"['Statement Download', 'Transfer Money', 'Card Management', 'Bill Pay', 'Account Balance']",1922.0
+USER_000023,SESS_9f9b1716-7174-481e-b047-8cfc4b95878e,2025-05-18 02:34:16,2025-05-18 02:46:21,"['Statement Download', 'Transfer Money', 'Card Management', 'Bill Pay', 'Account Balance']",725.0
+USER_000011,SESS_d8eae38d-db4a-4671-b94e-b0fa4f8b7469,2025-05-31 16:17:35,2025-05-31 16:44:23,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",1608.0
+USER_000047,SESS_5055ba20-c91f-4fe9-a027-5bece062a443,2025-06-12 16:04:37,2025-06-12 16:11:44,"['Statement Download', 'Account Balance', 'Card Management', 'Bill Pay', 'Transfer Money']",427.0
+USER_000085,SESS_2370ac6a-e9aa-4625-8e9e-2cf72389d871,2025-06-07 12:37:46,2025-06-07 13:16:53,"['Transfer Money', 'Account Balance', 'Statement Download', 'Card Management']",2347.0
+USER_000050,SESS_9966b46a-d760-435d-818b-19b8147978fa,2025-06-04 09:06:52,2025-06-04 09:40:42,"['Transfer Money', 'Statement Download', 'Account Balance', 'Card Management', 'Bill Pay']",2030.0
+USER_000097,SESS_cdee3219-e1f3-4ddb-8731-1a0d6cbdda2b,2025-05-17 23:47:00,2025-05-18 00:45:29,"['Account Balance', 'Statement Download', 'Card Management', 'Transfer Money', 'Bill Pay']",3509.0
+USER_000015,SESS_9d662a07-eade-45f8-935d-51b4a458fa00,2025-05-20 12:27:26,2025-05-20 12:54:02,"['Transfer Money', 'Account Balance', 'Bill Pay', 'Card Management', 'Statement Download']",1596.0
+USER_000086,SESS_e1a0d984-f02c-4f5d-9d9b-2036dd2199da,2025-05-19 15:15:15,2025-05-19 15:59:28,"['Bill Pay', 'Account Balance', 'Transfer Money', 'Card Management', 'Statement Download']",2653.0
+USER_000039,SESS_08f4fd87-e7df-4c8b-85a5-30c26bbb8103,2025-05-29 12:32:03,2025-05-29 12:59:42,"['Card Management', 'Statement Download', 'Account Balance']",1659.0
+USER_000034,SESS_cc38c588-2782-4430-a8e4-48063e2eae3a,2025-06-04 01:45:09,2025-06-04 02:15:34,"['Bill Pay', 'Card Management', 'Statement Download', 'Account Balance', 'Transfer Money']",1825.0
+USER_000011,SESS_20ac26c4-f130-4e0b-8106-2f679a56725e,2025-06-03 01:09:09,2025-06-03 02:04:35,"['Bill Pay', 'Statement Download', 'Card Management', 'Transfer Money', 'Account Balance']",3326.0
+USER_000008,SESS_49bf37b0-bf33-48e9-b1d0-326cd41b1f3c,2025-05-30 14:14:05,2025-05-30 15:12:58,"['Statement Download', 'Card Management', 'Account Balance', 'Transfer Money']",3533.0
+USER_000081,SESS_c58f8ee6-532e-436d-9fb2-1cf53003e0bd,2025-06-13 16:56:38,2025-06-13 17:27:14,"['Bill Pay', 'Card Management', 'Account Balance', 'Transfer Money', 'Statement Download']",1836.0
+USER_000026,SESS_4b0cf6f5-a63e-4bcf-adc4-72abdde96e58,2025-06-13 00:37:20,2025-06-13 01:18:28,"['Statement Download', 'Card Management', 'Transfer Money', 'Account Balance', 'Bill Pay']",2468.0
+USER_000017,SESS_332a5cc6-b431-4fc0-ad3f-9112840fdad2,2025-06-08 06:29:23,2025-06-08 07:26:17,"['Card Management', 'Bill Pay', 'Account Balance', 'Statement Download']",3414.0
+USER_000091,SESS_0213a9fd-63d2-438d-b584-6ed693ace2aa,2025-06-07 09:13:55,2025-06-07 10:12:07,"['Account Balance', 'Transfer Money', 'Statement Download']",3492.0
+USER_000055,SESS_86fd7c3f-f536-4c9a-88f1-afaf15ce7c32,2025-05-22 02:30:13,2025-05-22 02:41:53,"['Account Balance', 'Bill Pay', 'Transfer Money', 'Statement Download', 'Card Management']",700.0
+USER_000082,SESS_d9b43a4b-8bc4-4773-9b30-c05850b9bfa5,2025-06-05 22:53:09,2025-06-05 23:04:43,"['Transfer Money', 'Statement Download', 'Account Balance']",694.0
+USER_000043,SESS_58ce399e-59dc-4635-8667-106b9ac33c3f,2025-05-21 22:18:34,2025-05-21 23:09:12,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance', 'Card Management']",3038.0
+USER_000009,SESS_20d4e927-d61c-462f-8255-66a53caabc50,2025-06-05 16:14:37,2025-06-05 16:53:25,"['Statement Download', 'Bill Pay', 'Card Management', 'Transfer Money', 'Account Balance']",2328.0
+USER_000062,SESS_f2208343-e5c5-42ff-b144-aa00b0832b75,2025-05-26 17:32:00,2025-05-26 18:24:55,"['Statement Download', 'Account Balance', 'Card Management', 'Bill Pay', 'Transfer Money']",3175.0
+USER_000090,SESS_c6ce20cd-21b9-4b53-8d8f-b43872afaf97,2025-05-28 22:41:35,2025-05-28 23:41:03,"['Transfer Money', 'Statement Download', 'Bill Pay', 'Card Management', 'Account Balance']",3568.0
+USER_000024,SESS_3e3ff545-c0ca-4e9b-8a10-4282a6be4b47,2025-06-13 20:51:04,2025-06-13 21:41:14,"['Card Management', 'Statement Download', 'Transfer Money']",3010.0
+USER_000098,SESS_d79c0b0b-6c2f-425d-81e9-847dfb4565e4,2025-06-11 06:34:05,2025-06-11 06:53:01,"['Transfer Money', 'Account Balance', 'Statement Download', 'Bill Pay', 'Card Management']",1136.0
+USER_000045,SESS_1e420c5a-a634-4fdc-bf6c-011869fde1a4,2025-06-07 00:48:09,2025-06-07 01:10:07,"['Account Balance', 'Transfer Money', 'Card Management', 'Statement Download', 'Bill Pay']",1318.0
+USER_000088,SESS_1f7fa329-b85f-495c-9fd1-f4f2c54f3bf2,2025-05-25 14:05:17,2025-05-25 14:14:08,"['Statement Download', 'Card Management', 'Account Balance', 'Bill Pay', 'Transfer Money']",531.0
+USER_000027,SESS_ed9f8fe8-890a-49d4-a825-683b7da31d0c,2025-06-06 12:36:34,2025-06-06 13:35:02,"['Card Management', 'Statement Download', 'Bill Pay', 'Transfer Money', 'Account Balance']",3508.0
+USER_000072,SESS_adbf26d6-2562-4468-8601-bff830dc9dec,2025-05-30 11:48:12,2025-05-30 12:12:01,"['Statement Download', 'Transfer Money', 'Bill Pay', 'Account Balance', 'Card Management']",1429.0
+USER_000001,SESS_020161ec-d622-4a9f-805b-4063baa783ad,2025-06-04 18:24:36,2025-06-04 18:37:46,"['Statement Download', 'Account Balance', 'Bill Pay', 'Transfer Money', 'Card Management']",790.0
+USER_000067,SESS_4dec877c-c4c5-43fc-b43e-5312a2b9be0e,2025-06-03 15:06:05,2025-06-03 15:18:27,"['Transfer Money', 'Account Balance', 'Card Management']",742.0
+USER_000000,SESS_2f54f395-61c9-4a14-ae76-268f92069dd2,2025-06-05 10:36:33,2025-06-05 11:25:01,"['Transfer Money', 'Account Balance', 'Card Management', 'Statement Download', 'Bill Pay']",2908.0
+USER_000031,SESS_e1243d03-4df3-4c62-8a94-a0914bc25fe1,2025-05-18 05:07:11,2025-05-18 05:45:09,"['Card Management', 'Account Balance', 'Statement Download']",2278.0
+USER_000069,SESS_20577534-73f4-46f8-943f-ef151c9bdfbc,2025-06-07 13:37:34,2025-06-07 14:12:15,"['Bill Pay', 'Transfer Money', 'Card Management']",2081.0
+USER_000083,SESS_be213405-48d4-4289-b357-47c3817e76bc,2025-05-29 12:53:00,2025-05-29 13:06:06,"['Account Balance', 'Transfer Money', 'Statement Download', 'Bill Pay', 'Card Management']",786.0
+USER_000099,SESS_90b82d5d-c015-4e11-8cf4-32519e739249,2025-05-27 14:14:33,2025-05-27 14:56:55,"['Statement Download', 'Bill Pay', 'Account Balance', 'Transfer Money', 'Card Management']",2542.0
+USER_000052,SESS_e62fe51a-0aa3-449e-af29-176a9db7def5,2025-05-28 04:30:08,2025-05-28 05:01:21,"['Account Balance', 'Statement Download', 'Transfer Money', 'Card Management', 'Bill Pay']",1873.0
+USER_000066,SESS_61102aae-13c0-41c4-ad15-0dfa4c7416b5,2025-05-23 23:26:30,2025-05-24 00:17:55,"['Account Balance', 'Bill Pay', 'Statement Download', 'Transfer Money', 'Card Management']",3085.0
