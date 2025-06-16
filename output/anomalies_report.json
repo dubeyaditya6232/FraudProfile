@@ -1,0 +1,71 @@
+{
+  "analysis_timestamp": "2025-06-17T01:10:58.687065",
+  "total_anomalies": 8,
+  "anomalies": [
+    {
+      "user_id": "USER_000003",
+      "anomaly_score": -0.648,
+      "reasons": [
+        "avg_login_interval is too high (z=3.47)",
+        "std_login_interval is too high (z=3.11)",
+        "avg_transaction_amount is too low (z=-2.87)",
+        "max_transaction_amount is too low (z=-3.09)"
+      ]
+    },
+    {
+      "user_id": "USER_000008",
+      "anomaly_score": -0.547,
+      "reasons": [
+        "avg_login_interval is too high (z=2.21)",
+        "std_login_interval is too high (z=3.69)"
+      ]
+    },
+    {
+      "user_id": "USER_000013",
+      "anomaly_score": -0.528,
+      "reasons": [
+        "std_transaction_amount is too low (z=-2.46)",
+        "max_transaction_amount is too low (z=-3.64)"
+      ]
+    },
+    {
+      "user_id": "USER_000034",
+      "anomaly_score": -0.615,
+      "reasons": [
+        "avg_login_interval is too high (z=4.37)",
+        "std_login_interval is too high (z=5.82)",
+        "feature_usage_count is too high (z=2.28)"
+      ]
+    },
+    {
+      "user_id": "USER_000043",
+      "anomaly_score": -0.564,
+      "reasons": [
+        "unique_devices is too low (z=-4.42)",
+        "unique_ips is too low (z=-2.20)"
+      ]
+    },
+    {
+      "user_id": "USER_000045",
+      "anomaly_score": -0.576,
+      "reasons": [
+        "unique_features_used is too low (z=-9.90)"
+      ]
+    },
+    {
+      "user_id": "USER_000072",
+      "anomaly_score": -0.506,
+      "reasons": [
+        "avg_login_interval is too high (z=2.66)"
+      ]
+    },
+    {
+      "user_id": "USER_000082",
+      "anomaly_score": -0.503,
+      "reasons": [
+        "avg_transaction_amount is too low (z=-2.14)",
+        "max_transaction_amount is too low (z=-2.95)"
+      ]
+    }
+  ]
+}
